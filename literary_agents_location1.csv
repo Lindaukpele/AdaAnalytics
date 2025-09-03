@@ -1,0 +1,601 @@
+name,agency,location,genres,website
+Holly McGhee,Pippin Properties,New York,"Graphic Novel, Young Adult, Children's Book, Middle Grade, Picture Book",http://www.pippinproperties.com/
+ZoA Pagnamenta,Calligraph Literary Agency,New York,"Nonfiction, Business Book, Memoir, Narrative Nonfiction, Literary Fiction, Politics, Self-Help, Spirituality",https://www.calligraphlit.com/agents
+Jonny Geller,Curtis Brown UK,London,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Women's Fiction, Nonfiction, Memoir, Narrative Nonfiction, Politics",https://www.curtisbrown.co.uk/
+Douglas Stewart,Sterling Lord Literistic Inc.,New York,"Fiction, Commercial Fiction, Literary Fiction, Mystery, Women's Fiction",https://www.sll.com/
+Elisabeth Weed,The Book Group,New York,"Fiction, Commercial Fiction",http://www.thebookgroup.com/
+Lisa Erbach Vance,Aaron M. Priest Literary Agency,New York,"Fiction, Thriller, Women's Fiction, Narrative Nonfiction, Nonfiction",http://aaronpriest.com
+Michelle Brower,Trellis Literary Management,Boston,"Commercial Fiction, Literary Fiction, Women's Fiction, Nonfiction, Memoir, Narrative Nonfiction, Fantasy, Historical Fiction, Short Story, Thriller",https://www.trellisliterary.com/
+Pete Knapp,"Park, Fine & Brower Literary Management",New York,"Fiction, Fantasy, Science Fiction, Children's Book, Middle Grade",http://www.parkfine.com/
+Ginger Knowlton,"Curtis Brown, Ltd.",New York,"Young Adult, Middle Grade, Fiction, Nonfiction",https://curtisbrown.com/
+Carly Watters,P.S. Literary Agency,Toronto,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Thriller, Women's Fiction, Nonfiction, Cookbook, Narrative Nonfiction, Business Book, Memoir, Mystery, Romance",https://www.psliterary.com/
+Monika Verma,Levine Greenberg Rostan Literary Agency,New York,"Humor, Nonfiction, Memoir, Narrative Nonfiction",https://lgrliterary.com/
+Andrea Morrison,Writers House,New York,"Fiction, Literary Fiction, Young Adult, Children's Book, Middle Grade, Picture Book, Diverse Fiction",http://www.writershouse.com/
+Joanna Volpe,"New Leaf Literary & Media, Inc.",New York,"Fiction, Commercial Fiction, Fantasy, Literary Fiction, Science Fiction, Nonfiction, Narrative Nonfiction, Diverse Fiction, BIPOC, Feminism, LGBTQ",http://www.newleafliterary.com/
+Sarah Burnes,The Gernert Company,New York,"Fiction, Literary Fiction, Nonfiction, Narrative Nonfiction, Children's Book, Commercial Fiction",http://www.thegernertco.com/
+Kevan Lyon,"Marsal Lyon Literary Agency, LLC",San Diego,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Mystery, Romance, Women's Fiction",https://www.marsallyonliteraryagency.com/
+Amy Giuffrida,Belcastro Agency,New York,"Fiction, Horror, Romance, Young Adult, Nonfiction, Commercial Fiction, Women's Fiction, Self-Help, Fantasy, Narrative Nonfiction, Thriller, Science Fiction",https://www.belcastroagency.com/
+Susan Hawk,Upstart Crow Literary,New York,"Young Adult, Children's Book, Middle Grade, Picture Book",http://www.upstartcrowliterary.com/
+Eric Myers,Myers Literary Management,New York,"Fiction, Historical Fiction, Nonfiction, Memoir",http://www.myersliterary.com/
+Lauren Spieller,Folio Literary Management,Pittsburgh,"Fiction, Young Adult, Commercial Fiction, Fantasy, Horror, Romance, Thriller",https://www.foliojr.com
+Julie Barer,The Book Group,New York,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Women's Fiction, Diverse Fiction, BIPOC, LGBTQ",http://www.thebookgroup.com/
+Jess Regel,Helm Literary,New York,"Fiction, Young Adult, Children's Book, Diverse Fiction, Fantasy, Graphic Novel, Humor, LGBTQ, Literary Fiction, Middle Grade, New Adult, Romance, Women's Fiction",https://helmliterary.com/
+Erin Niumata,Folio Literary Management,New York,"Fiction, Thriller, Women's Fiction, Romance, Horror, Commercial Fiction, Humor, Feminism, Mystery",https://www.foliolit.com/
+Peter Straus,RCW Literary Agency,London,"Fiction, Literary Fiction, Poetry, Nonfiction, Narrative Nonfiction, Action & Adventure, Cookbook, Crime Fiction, Fantasy, Historical Fiction, Memoir, Politics, Romance, Science Fiction, Spirituality, Thriller, Women's Fiction",https://www.rcwlitagency.com/
+Alex Cochran,C&W Agency,London,"Fiction, Crime Fiction, Fantasy, Literary Fiction, Science Fiction, Thriller, Nonfiction, Narrative Nonfiction",https://cwagency.co.uk/
+Elaine Spencer,The Knight Agency,Atlanta,"Fiction, Historical Fiction, Humor, Romance, Women's Fiction, Nonfiction, Memoir, Narrative Nonfiction, Self-Help, Crime Fiction, Thriller, Commercial Fiction, Feminism",http://www.knightagency.net/
+Alexandra Machinist,Creative Artists Agency,Los Angeles,"Fiction, Commercial Fiction, Fantasy, Historical Fiction, Literary Fiction, Thriller, Women's Fiction, Narrative Nonfiction",https://www.publishersmarketplace.com/members/AMachinist/
+Kelly Sonnack,Andrea Brown Literary Agency,Chicago,"Graphic Novel, Young Adult, Children's Book, Middle Grade, Picture Book",http://www.andreabrownlit.com/
+Paul Rodeen,Rodeen Literary Management,Chicago,"Graphic Novel, Young Adult, Children's Book, Middle Grade, Picture Book",http://rodeenliterary.com/
+Stephanie Thwaites,Curtis Brown UK,London,"Fiction, Commercial Fiction, Thriller, Chick Lit, Diverse Fiction, Romance",https://www.curtisbrown.co.uk/
+Elizabeth Winick Rubenstein,"McIntosh & Otis, Inc.",New York,"Fiction, Historical Fiction, Literary Fiction, Mystery, Romance, Thriller, Women's Fiction, Nonfiction, Memoir, Narrative Nonfiction, Politics, Feminism",http://mcintoshandotis.com/
+Michael Harriot,Folio Literary Management,New York,"Fiction, Commercial Fiction, Humor, Nonfiction, Memoir, Narrative Nonfiction, Historical Fiction, Literary Fiction",https://www.foliolit.com/
+Julia Churchill,A.M. Heath & Co. Ltd,London,"Young Adult, Children's Book, Middle Grade, Picture Book, Fiction, Nonfiction",https://amheath.com
+Deidre Knight,The Knight Agency,Atlanta,"Fiction, Chick Lit, Fantasy, Romance, Nonfiction, LGBTQ, Sports, Thriller, Horror, New Adult",http://www.knightagency.net/
+Kerry Sparks,Levine Greenberg Rostan Literary Agency,New York,"Fiction, Narrative Nonfiction, Poetry",https://lgrliterary.com/
+Annelise Robey,Jane Rotrosen Agency,New York,"Fiction, Chick Lit, Commercial Fiction, Fantasy, Historical Fiction, Mystery, Romance, Thriller, Women's Fiction, Young Adult",https://www.janerotrosen.com/
+Michael Carr,Veritas Literary,San Francisco,"Fiction, Fantasy, Historical Fiction, Science Fiction, Women's Fiction, Nonfiction, Business Book, Memoir, Narrative Nonfiction, Self-Help, Spirituality, Sports, Politics",http://veritasliterary.com/
+Kristin Nelson,Nelson Literary Agency,Denver,"Commercial Fiction, Fantasy, Historical Fiction, Literary Fiction, Science Fiction, Thriller, Women's Fiction, Young Adult, Diverse Fiction, Chick Lit, LGBTQ, Action & Adventure, Horror, Romance",http://www.nelsonagency.com/
+Ellen Geiger,"Frances Goldin Literary Agency, Inc.",New York,"Fiction, Historical Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Politics, Diverse Fiction, Feminism, BIPOC, LGBTQ, Women's Fiction, Short Story",http://www.goldinlit.com/
+Stephanie Tade,Stephanie Tade Agency,Philadelphia,"Nonfiction, Memoir, Self-Help, Spirituality",http://www.stephanietadeagency.com/
+Felicity Blunt,Curtis Brown UK,London,"Fiction, Crime Fiction, Historical Fiction, Literary Fiction, Thriller, Young Adult, Commercial Fiction, Feminism, Women's Fiction",https://www.curtisbrown.co.uk/
+Juliet Mushens,Mushens Entertainment,London,"Fiction, Commercial Fiction, Crime Fiction, Historical Fiction, Literary Fiction, Thriller, Fantasy",https://www.mushens-entertainment.com/
+Howard Yoon,WME Books,Washington DC,"Nonfiction, Memoir, Narrative Nonfiction, Politics",https://wmebookdepartment.com/
+Leigh Feldman,Leigh Feldman Literary,New York,"Fiction, Historical Fiction, Literary Fiction, Young Adult, Nonfiction, Memoir, Narrative Nonfiction",http://www.lfliterary.com/
+Tamar Rydzinski,Context Literary Agency,New York,"Fiction, Young Adult, Middle Grade, Commercial Fiction, Narrative Nonfiction, Nonfiction",https://www.contextlit.com/
+Mel Parker,"Mel Parker Books, LLC",New York,"Thriller, Nonfiction, Business Book, Memoir, Narrative Nonfiction, Spirituality",http://melparkerbooks.com/
+Holly Root,Root Literary,Los Angeles,"Fiction, Commercial Fiction, Women's Fiction, Nonfiction, Chick Lit, Middle Grade, Romance",https://www.rootliterary.com/
+Marietta Zacker,Gallt & Zacker Literary Agency,Newark,"Young Adult, Children's Book, Middle Grade, Picture Book, Diverse Fiction",https://www.galltzacker.com/
+Cecilia Lyra,P.S. Literary Agency,Toronto,"Fiction, Commercial Fiction, Literary Fiction, Women's Fiction, Nonfiction, Business Book, Memoir, Diverse Fiction, BIPOC, Feminism, LGBTQ",https://www.psliterary.com/
+Jill Marsal,"Marsal Lyon Literary Agency, LLC",San Diego,"Fiction, Commercial Fiction, Literary Fiction, Mystery, Romance, Thriller, Women's Fiction, Nonfiction, Business Book, Narrative Nonfiction, Politics, Self-Help, Chick Lit, Crime Fiction, Memoir",https://www.marsallyonliteraryagency.com/
+Irene Goodman,Irene Goodman Literary Agency,New York,"Fiction, Chick Lit, Commercial Fiction, Mystery, Romance, Thriller, Women's Fiction, Young Adult, Nonfiction, Memoir, Children's Book, Middle Grade, Business Book, Cookbook",https://www.irenegoodman.com/
+Harvey Klinger,"Harvey Klinger, Inc.",New York,"Fiction, Commercial Fiction, Literary Fiction, Mystery, Thriller, Women's Fiction, Nonfiction, Narrative Nonfiction, Self-Help, Crime Fiction, Memoir",https://www.harveyklinger.com/
+Lisa Grubka,United Talent Agency,New York,"Fiction, Literary Fiction, Thriller, Women's Fiction, Young Adult, Nonfiction, Business Book, Cookbook, Sports",https://www.unitedtalent.com/
+Donald Maass,Donald Maass Literary Agency,New York,"Fiction, Commercial Fiction, Fantasy, Horror, Literary Fiction, Mystery, Science Fiction, Thriller, Women's Fiction, Young Adult",http://maassagency.com/
+Louise Fury,The Fury Agency,New York,"Fiction, Commercial Fiction, Graphic Novel, Romance, Young Adult, Nonfiction, Self-Help, Sports, Children's Book, Middle Grade, Picture Book, Cookbook, Crime Fiction, Humor",https://www.thefuryagency.com/
+Joshua Getzler,HG Literary,New York,"Fiction, Historical Fiction, Mystery, Thriller, Women's Fiction, Nonfiction, Business Book, Politics, Middle Grade",http://www.hgliterary.com/
+Liza Dawson,Liza Dawson Associates,New York,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Mystery, Thriller, Nonfiction, Memoir, Narrative Nonfiction, Women's Fiction",https://www.lizadawsonassociates.com/
+Hannah Bowman,Liza Dawson Associates,New York,"Fiction, Commercial Fiction, Fantasy, Science Fiction, Young Adult, Diverse Fiction, BIPOC, LGBTQ",https://www.lizadawsonassociates.com/
+Danielle Egan-Miller,Browne & Miller Literary Associates,Chicago,"Fiction, Commercial Fiction, Crime Fiction, Historical Fiction, Mystery, Thriller, Women's Fiction, Self-Help, LGBTQ, Literary Fiction, Romance",http://www.browneandmiller.com/
+Laurie McLean,Fuse Literary,San Francisco,"Fiction, Fantasy, Romance, Crime Fiction, LGBTQ, Science Fiction, Young Adult",http://fuseliterary.com/
+Don Congdon,Don Congdon Associates,New York,"Action & Adventure, Nonfiction, Narrative Nonfiction, Politics",http://www.doncongdon.com/
+Stacy Testa,Writers House,New York,"Fiction, Commercial Fiction, Humor, Literary Fiction, Women's Fiction, Nonfiction, Memoir, Narrative Nonfiction",http://www.writershouse.com/
+Frances Coady,Aragi Inc.,New York,"Fiction, Historical Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Politics, Feminism, Commercial Fiction",http://www.aragi.net/
+Lisa Leshne,The Leshne Agency,New York,"Fiction, Young Adult, Nonfiction, Business Book, Memoir, Narrative Nonfiction, Politics, Sports, Children's Book, Middle Grade, Diverse Fiction, Feminism, Commercial Fiction, Humor, LGBTQ, Literary Fiction, Women's Fiction",http://www.leshneagency.com/
+Sara Crowe,Sara Crowe Literary,New York,"Fiction, Young Adult, Children's Book, Graphic Novel, Literary Fiction, Middle Grade, Picture Book, Romance, Diverse Fiction",https://www.saracrowelit.com/
+Laurie Liss,Sterling Lord Literistic Inc.,New York,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Women's Fiction, Nonfiction, Memoir, Narrative Nonfiction, Diverse Fiction, LGBTQ, Spirituality",https://www.sll.com/
+Jennifer DeChiara,Jennifer DeChiara Literary Agency,New York,"Fiction, Chick Lit, Commercial Fiction, Literary Fiction, Mystery, Thriller, Women's Fiction, Young Adult, Nonfiction, Memoir, Self-Help, Spirituality, Children's Book, Middle Grade, Picture Book, Diverse Fiction, LGBTQ",https://www.jdlit.com/
+Wendy Sherman,Wendy Sherman Associates,New York,"Fiction, Commercial Fiction, Literary Fiction, Thriller, Women's Fiction, Nonfiction, Memoir, Narrative Nonfiction, Self-Help, Spirituality, Sports",https://www.wsherman.com/
+Celeste Fine,"Park, Fine & Brower Literary Management",New York,"Nonfiction, Memoir, Narrative Nonfiction, Commercial Fiction, Thriller, Young Adult, Politics",http://www.parkfine.com/
+Allison Hunter,Trellis Literary,New York,"Fiction, Commercial Fiction, Literary Fiction, Women's Fiction, Nonfiction, Memoir, Narrative Nonfiction, Romance, Thriller, Chick Lit, Diverse Fiction, Historical Fiction, New Adult",https://www.trellisliterary.com/
+Anna Ghosh,Ghosh Literary,New York,"Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Historical Fiction, Women's Fiction",http://www.ghoshliterary.com/
+Dorian Karchmar,William Morris Endeavor,Los Angeles,"Fiction, Commercial Fiction, Literary Fiction, Women's Fiction, Nonfiction, Memoir, Narrative Nonfiction, Diverse Fiction, Feminism",https://www.wmebookdepartment.com/
+Vicky Bijur,Vicky Bijur Literary Agency,New York,"Fiction, Commercial Fiction, Literary Fiction, Women's Fiction, Cookbook, Crime Fiction, LGBTQ, Memoir, Nonfiction, Self-Help, Thriller",http://www.vickybijuragency.com/
+Christina Hogrebe,Jane Rotrosen Agency,New York,"Fiction, Commercial Fiction, Humor, Romance, Women's Fiction, Chick Lit, Middle Grade, Thriller, Fantasy",https://www.janerotrosen.com/
+James A. Levine,Levine Greenberg Rostan Literary Agency,New York,"Nonfiction, Business Book, Memoir, Narrative Nonfiction, Politics, Spirituality, Sports",https://lgrliterary.com/
+Adam Schear,DeFiore and Company,New York,"Fiction, Commercial Fiction, Humor, Literary Fiction, Science Fiction, Short Story, Thriller, Young Adult, Nonfiction, Memoir, Narrative Nonfiction, Politics, #ownvoices",http://www.defliterary.com/
+Gail Hochman,"Brandt & Hochman Literary Agents, Inc.",New York,"Fiction, Commercial Fiction, Literary Fiction, Thriller, Nonfiction, Memoir, Narrative Nonfiction, Politics, Children's Book, Young Adult",https://brandthochman.com/
+David Black,David Black Literary Agency,New York,"Nonfiction, Business Book, Memoir, Narrative Nonfiction, Politics, Spirituality, Sports",http://www.davidblackagency.com/
+Molly O'Neill,Root Literary,Los Angeles,"Young Adult, Children's Book, Middle Grade, Diverse Fiction, Graphic Novel",https://www.rootliterary.com/
+Daniel Lazar,Writers House,New York,"Fiction, Commercial Fiction, Graphic Novel, Historical Fiction, Humor, Literary Fiction, Mystery, Thriller, Young Adult, Nonfiction, Memoir, Narrative Nonfiction, Middle Grade, Diverse Fiction, LGBTQ",http://www.writershouse.com/
+Susan Ramer,Don Congdon Associates,New York,"Fiction, Historical Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Women's Fiction, Feminism, LGBTQ, Diverse Fiction",http://www.doncongdon.com/
+Sarah Hornsley,Peters Fraser + Dunlop,London,"Fiction, Commercial Fiction, Crime Fiction, Historical Fiction, Thriller, Romance, Women's Fiction, Nonfiction",https://petersfraserdunlop.com
+Kim Lionetti,BookEnds Literary Agency,Newark,"Romance, Women's Fiction, Young Adult, Diverse Fiction, #ownvoices, BIPOC, LGBTQ, Chick Lit, Commercial Fiction",http://www.bookendsliterary.com/
+Anna Olswanger,Olswanger Literary LLC,New York,"Fiction, Graphic Novel, Children's Book, Picture Book",http://www.olswanger.com/
+Frank Weimann,Folio Literary Management,New York,"Humor, Nonfiction, Business Book, Memoir, Narrative Nonfiction, Spirituality, Sports, Self-Help",https://www.foliolit.com/
+Chris Bucci,Aevitas Creative Management,Boston,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Mystery, Thriller, Nonfiction, Narrative Nonfiction, Politics, Sports",https://aevitascreative.com/
+Joshua A. Bilmes,JABberwocky Literary Agency,New York,"Fiction, Crime Fiction, Fantasy, Horror, Mystery, Science Fiction, Thriller, Nonfiction, Business Book, Memoir, Politics, Sports, Graphic Novel, LGBTQ, Commercial Fiction",http://www.awfulagent.com
+Kimberly Witherspoon,InkWell Management,New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Narrative Nonfiction, Cookbook, Fantasy, Romance, Short Story, Thriller, Women's Fiction, Chick Lit",http://inkwellmanagement.com/
+Madeleine Milburn,Madeleine Milburn Literary,London,"Fiction, Historical Fiction, Romance, Thriller, Crime Fiction, Literary Fiction, Women's Fiction, Commercial Fiction, Mystery, Young Adult",http://madeleinemilburn.com/
+Lori Kilkelly,LK Literary Agency,Chicago,"Graphic Novel, Young Adult, Children's Book, Middle Grade, Picture Book",https://www.lkliterary.com/
+Jennifer Weltz,Jean V. Naggar Literary Agency,New York,"Fiction, Commercial Fiction, Fantasy, Historical Fiction, Literary Fiction, Nonfiction, Narrative Nonfiction, Children's Book, Middle Grade",http://www.jvnla.com
+Brian DeFiore,DeFiore and Company,New York,"Fiction, Commercial Fiction, Humor, Literary Fiction, Young Adult, Nonfiction, Cookbook, Memoir, Narrative Nonfiction, Self-Help, Sports",http://www.defliterary.com/
+Bonnie Nadell,Hill Nadell Literary Agency,Los Angeles,"Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Politics, Cookbook",https://www.hillnadell.com/
+Jennifer Rofe,Andrea Brown Literary Agency,Chicago,"Children's Book, Middle Grade, Fiction, Picture Book",https://www.andreabrownlit.com/
+Brianne Johnson,HG Literary,New York,"Fiction, Historical Fiction, Women's Fiction, Young Adult, Children's Book, Middle Grade, LGBTQ, Crime Fiction, Horror, Humor, Mystery, Science Fiction",https://www.hgliterary.com/
+David Dunton,"Harvey Klinger, Inc.",New York,"Young Adult, Children's Book, Middle Grade, Memoir, Narrative Nonfiction, Nonfiction",https://www.harveyklinger.com/
+Elizabeth Harding,"Curtis Brown, Ltd.",New York,"Young Adult, Children's Book, Middle Grade",https://curtisbrown.com/
+Bonnie Solow,Solow Literary Enterprises,San Francisco,"Nonfiction, Business Book, Memoir, Narrative Nonfiction, Spirituality",https://www.solowliterary.com/
+Gail Ross,WME Books,Washington DC,"Nonfiction, Memoir, Politics, Business Book, Commercial Fiction, Humor, Literary Fiction, Narrative Nonfiction, Young Adult",https://wmebookdepartment.com/
+Darley Anderson,"Darley Anderson Literary, TV and Film Agency",London,"Fiction, Commercial Fiction, Thriller, Crime Fiction, Horror, Mystery",https://www.darleyanderson.com/
+Kari Sutherland,KT Literary,San Diego,"Humor, Young Adult, Children's Book, Middle Grade, Picture Book",https://ktliterary.com/
+Liz Darhansoff,Darhansoff Verrill Feldman Literary Agents,New York,"Fiction, Literary Fiction, Nonfiction, Narrative Nonfiction, Thriller",http://www.dvagency.com/
+Emily Forland,"Brandt & Hochman Literary Agents, Inc.",New York,"Fiction, Graphic Novel, Humor, Literary Fiction, Young Adult, Nonfiction, Memoir, Narrative Nonfiction",https://brandthochman.com/
+Jessica Faust,BookEnds Literary Agency,Newark,"Fiction, Commercial Fiction, Mystery, Thriller, Women's Fiction, Diverse Fiction, LGBTQ, Crime Fiction, Fantasy, Romance",http://www.bookendsliterary.com/
+Emily van Beek,Folio Literary Management,New York,"Fantasy, Young Adult, Children's Book, Middle Grade, Picture Book, Diverse Fiction, Graphic Novel",http://www.foliojr.com/
+Melissa Flashman,Janklow & Nesbit Associates,New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Business Book, Memoir",http://www.janklowandnesbit.com/
+Molly Ker Hawn,The Bent Agency,London,"Fiction, Graphic Novel, Young Adult, Children's Book, Middle Grade, Fantasy, Science Fiction",http://www.thebentagency.com/
+Stephanie Rostan,Levine Greenberg Rostan Literary Agency,New York,"Fiction, Commercial Fiction, Crime Fiction, Fantasy, Historical Fiction, Literary Fiction, Mystery, Romance, Thriller, Women's Fiction, Nonfiction, Memoir, Narrative Nonfiction, Self-Help, Spirituality, Chick Lit",https://lgrliterary.com/
+Lizzy Kremer,David Higham Literary Agency,London,"Fiction, Commercial Fiction, Crime Fiction, Literary Fiction, Mystery, Women's Fiction, Diverse Fiction, BIPOC, LGBTQ, Feminism, Narrative Nonfiction",https://www.davidhigham.co.uk
+Jessica Alvarez,BookEnds Literary Agency,Newark,"Fiction, Romance, Women's Fiction",http://www.bookendsliterary.com/
+Susan Golomb,Writers House,New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Historical Fiction, Women's Fiction, Cookbook, Self-Help",http://www.writershouse.com/
+Stephen Barr,Writers House,New York,"Graphic Novel, Humor, Young Adult, Nonfiction, Memoir, Narrative Nonfiction, Children's Book, Middle Grade, Picture Book",http://www.writershouse.com/
+Alice Williams,Alice Williams Literary Agency,London,"Fiction, Young Adult, Children's Book, Middle Grade, Picture Book, Diverse Fiction, BIPOC, LGBTQ",https://www.alicewilliamsliterary.co.uk/
+Emma Patterson,"Brandt & Hochman Literary Agents, Inc.",New York,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction",https://brandthochman.com/
+Elyse Cheney,The Cheney Agency,New York,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Politics, Business Book, Short Story, Thriller, Women's Fiction",http://cheneyassoc.com/
+Curtis Russell,P.S. Literary Agency,Toronto,"Fiction, Commercial Fiction, Humor, Literary Fiction, Mystery, Romance, Thriller, Nonfiction, Business Book, Memoir, Politics, Self-Help, Sports",https://www.psliterary.com/
+Robin Rue,Writers House,New York,"Fiction, Commercial Fiction, Fantasy, Mystery, Romance, Science Fiction, Thriller, Young Adult",http://www.writershouse.com/
+Stacey Glick,"Dystel, Goderich & Bourret",New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Cookbook, Memoir, Narrative Nonfiction, Politics, Self-Help",https://www.dystel.com/
+Kari Stuart,Creative Artists Agency,London,"Fiction, Mystery, Thriller, Nonfiction, Business Book, Cookbook, Memoir, Self-Help",https://www.caa.com/
+Mitchell S. Waters,"Brandt & Hochman Literary Agents, Inc.",New York,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Mystery, Nonfiction, Memoir, Thriller, Humor, Young Adult",https://brandthochman.com/
+Anne Sibbald,Janklow & Nesbit Associates,New York,"Fiction, Commercial Fiction, Thriller, Nonfiction, Memoir",http://www.janklowandnesbit.com/
+Marya Spence,Janklow & Nesbit Associates,New York,"Fiction, Humor, Literary Fiction, Poetry, Nonfiction, Memoir, Narrative Nonfiction",http://www.janklowandnesbit.com/
+Gemma Cooper,Gemma Cooper Literary,London,"Graphic Novel, Young Adult, Children's Book, Middle Grade, Crime Fiction",https://www.gemmacooperliterary.com/
+Jim McCarthy,"Dystel, Goderich & Bourret",New York,"Fiction, Commercial Fiction, Fantasy, Literary Fiction, Mystery, Romance, Women's Fiction, Young Adult, Nonfiction, Memoir, Middle Grade, Diverse Fiction, LGBTQ, Humor, Narrative Nonfiction, Politics, Sports, Chick Lit",https://www.dystel.com/
+Caitlin McDonald,Donald Maass Literary Agency,New York,"Fiction, Fantasy, Horror, Science Fiction, Young Adult, Diverse Fiction, Feminism, LGBTQ, Graphic Novel",http://maassagency.com/
+Jennifer Jackson,Donald Maass Literary Agency,New York,"Fiction, Fantasy, Historical Fiction, Science Fiction, Thriller, Women's Fiction, Young Adult, African-American, BIPOC, Crime Fiction",http://maassagency.com/
+Stephen Barbara,InkWell Management,New York,"Fiction, Fantasy, Mystery, Science Fiction, Thriller, Young Adult, Nonfiction, Sports, Commercial Fiction, Humor, Literary Fiction, Memoir, Middle Grade, Narrative Nonfiction",http://inkwellmanagement.com/
+Lorin Rees,Rees Literary Agency,Boston,"Fiction, Literary Fiction, Nonfiction, Business Book, Memoir, Narrative Nonfiction, Self-Help",https://www.reesagency.com/
+Thao Le,Sandra Dijkstra Literary Agency,San Diego,"Fiction, Fantasy, Graphic Novel, Romance, Science Fiction, Young Adult, Children's Book, Middle Grade, Picture Book, Diverse Fiction, BIPOC, LGBTQ",http://www.dijkstraagency.com/
+Matthew Bialer,Sanford J. Greenburger Associates,New York,"Fiction, Fantasy, Mystery, Science Fiction, Thriller, Nonfiction, Narrative Nonfiction, Sports, Literary Fiction, Politics",https://www.greenburger.com/
+Karolina Sutton,Creative Artists Agency,London,"Fiction, Historical Fiction, Literary Fiction, Crime Fiction, Memoir, Nonfiction, Thriller",https://www.caa.com/
+Rob McQuilkin,Massie McQuilkin & Altman Literary Agents,New York,"Fiction, Historical Fiction, Nonfiction, Memoir, Literary Fiction, Narrative Nonfiction, Politics, Poetry",http://www.mmqlit.com/
+Christopher Schelling,Selectric Artists,Hartford,"Fiction, Literary Fiction, Young Adult, Memoir, Narrative Nonfiction, Fantasy, Humor, Science Fiction, Thriller, Graphic Novel, Women's Fiction",http://selectricartists.com/
+Christopher Ferebee,The Christopher Ferebee Agency,Los Angeles,"Nonfiction, Christian, Memoir, Spirituality, Fiction",https://www.christopherferebee.com/
+Caitlin Blasdell,Liza Dawson Associates,New York,"Fiction, Commercial Fiction, Fantasy, Mystery, Science Fiction, Thriller, Women's Fiction, Young Adult, Middle Grade, Historical Fiction",https://www.lizadawsonassociates.com/
+Veronique Baxter,David Higham Literary Agency,London,"Fiction, Crime Fiction, Historical Fiction, Literary Fiction, Thriller, Young Adult, Nonfiction, Memoir, Narrative Nonfiction, Politics, Children's Book, Middle Grade, Diverse Fiction, BIPOC, Feminism, LGBTQ, Commercial Fiction, Women's Fiction",https://www.davidhigham.co.uk
+Matt McGowan,"Frances Goldin Literary Agency, Inc.",New York,"Humor, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Politics, Sports",http://www.goldinlit.com/
+Jane Dystel,"Dystel, Goderich & Bourret",New York,"Fiction, Commercial Fiction, Women's Fiction, Nonfiction, Memoir, Politics, Cookbook, Self-Help, Narrative Nonfiction",https://www.dystel.com/
+Andrea Somberg,"Harvey Klinger, Inc.",New York,"Fiction, Chick Lit, Commercial Fiction, Fantasy, Historical Fiction, Humor, Literary Fiction, Mystery, Romance, Science Fiction, Thriller, Women's Fiction, Young Adult, Nonfiction, Business Book, Memoir, Narrative Nonfiction, Self-Help, Middle Grade, Diverse Fiction",https://www.harveyklinger.com/
+Uwe Stender,Triada US Literary Agency,Pittsburgh,"Fiction, Graphic Novel, Thriller, Women's Fiction, Young Adult, Nonfiction, Narrative Nonfiction, Diverse Fiction",http://www.triadaus.com/
+Cristina Concepcion,Don Congdon Associates,New York,"Fiction, Crime Fiction, Mystery, Thriller, Nonfiction, Narrative Nonfiction, Politics, Commercial Fiction, Cookbook, Historical Fiction, Literary Fiction",http://www.doncongdon.com/
+Luke Janklow,Janklow & Nesbit Associates,New York,"Fiction, Action & Adventure, Commercial Fiction, Humor, Literary Fiction, Science Fiction, Thriller, Young Adult, Nonfiction, Memoir, Narrative Nonfiction, Sports, Cookbook, Horror",http://www.janklowandnesbit.com/
+Henry Dunow,"Dunow, Carlson & Lerner Literary Agency",New York,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Sports, Short Story, Spirituality, Politics",https://www.dclagency.com/
+Theresa Park,"Park, Fine & Brower Literary Management",New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Young Adult",http://www.parkfine.com/
+Jennie Dunham,Dunham Literary,New York,"Fiction, Historical Fiction, Literary Fiction, Women's Fiction, Young Adult, Children's Book, Middle Grade, Picture Book",https://www.dunhamlit.com/
+Dan Conaway,Writers House,New York,"Fiction, Commercial Fiction, Crime Fiction, Horror, Literary Fiction, Thriller, Nonfiction, Narrative Nonfiction, Politics, Diverse Fiction, BIPOC, LGBTQ, Children's Book, Fantasy, Memoir, Young Adult",http://www.writershouse.com/
+Alex Glass,Glass Literary Management,New York,"Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Cookbook, Self-Help, Spirituality, Sports",http://www.glassliterary.com/
+Laura Bradford,Bradford Literary Agency,San Diego,"Fiction, Fantasy, Graphic Novel, Historical Fiction, Mystery, Romance, Science Fiction, Thriller, Women's Fiction, Young Adult, Middle Grade, Diverse Fiction, African-American, BIPOC, LGBTQ",https://bradfordlit.com/
+Sallyanne Sweeney,Mulcahy Associates,London,"Nonfiction, Politics, Self-Help",https://mmbcreative.com/
+Victoria Doherty-Munro,Writers House,New York,"Fiction, Young Adult, Children's Book, Middle Grade, Narrative Nonfiction",http://www.writershouse.com/
+Elana Roth Parker,Laura Dail Literary Agency,New York,"Young Adult, Middle Grade, Commercial Fiction, Mystery, Romance, Thriller",http://www.ldlainc.com/
+Margret McBride,Margret McBride Literary Agency,San Diego,"Fiction, Commercial Fiction, Historical Fiction, Nonfiction, Business Book, Memoir, Self-Help, Politics, Feminism, Narrative Nonfiction, Humor, Mystery, Cookbook, LGBTQ",http://www.mcbrideliterary.com/
+Faye Bender,The Book Group,New York,"Fiction, Commercial Fiction, Literary Fiction, Young Adult, Children's Book, Middle Grade",http://www.thebookgroup.com/
+Steven Malk,Writers House,San Diego,"Fiction, Young Adult, Children's Book",http://www.writershouse.com/
+Christine Witthohn,Book Cents Literary Agency,New York,"Fiction, Commercial Fiction, Cookbook, Feminism, Literary Fiction, Mystery, Romance, Thriller, Women's Fiction, Young Adult",https://www.bookcentsliteraryagency.com/
+Farley Chase,Chase Literary Agency,New York,"Fiction, Commercial Fiction, Historical Fiction, Humor, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Sports, Fantasy, Business Book, Horror, Politics, Self-Help",http://chaseliterary.com/
+Jeff Kleinman,Folio Literary Management,New York,"Fiction, Historical Fiction, Literary Fiction, Thriller, Nonfiction, Memoir, Narrative Nonfiction, Politics",https://www.foliolit.com/
+Laura Langlie,Laura Langlie Agency,New York,"Fiction, Commercial Fiction, Crime Fiction, Historical Fiction, Humor, Literary Fiction, Mystery, Romance, Thriller, Young Adult, Nonfiction, Memoir, Politics, Diverse Fiction, LGBTQ, Feminism, Middle Grade",https://querytracker.net/agent/434
+Meg Thompson,Thompson Literary Agency,New York,"Nonfiction, Cookbook, Memoir, Narrative Nonfiction, Politics, Spirituality, Sports, Feminism, Self-Help",https://thompsonliterary.com/
+Alison Fargis,Stonesong,New York,"Fiction, Commercial Fiction, Literary Fiction, Women's Fiction, Young Adult, Nonfiction, Business Book, Narrative Nonfiction, Self-Help, Children's Book, Middle Grade",https://www.stonesong.com
+Carol Mann,Carol Mann Agency,New York,"Nonfiction, Memoir, Narrative Nonfiction, Self-Help, Spirituality, Politics",http://carolmannagency.com/
+Sarah Younger,Nancy Yost Literary Agency,New York,"Fiction, Fantasy, Mystery, Romance, Science Fiction, Thriller, Women's Fiction, Christian, Commercial Fiction",http://www.nyliterary.com/
+Anne Hawkins,John Hawkins & Associates,New York,"Fiction, Literary Fiction, Thriller, Women's Fiction, Nonfiction, Politics, Feminism",https://www.jhalit.com/#Home
+Rebecca Sherman,Writers House,New York,"Young Adult, Children's Book, Middle Grade, Picture Book, Graphic Novel",http://www.writershouse.com/
+Laura Rennert,Andrea Brown Literary Agency,Chicago,"Fiction, Commercial Fiction, Fantasy, Graphic Novel, Horror, Science Fiction, Thriller, Young Adult, Diverse Fiction, Feminism, Mystery, Romance, Children's Book, Historical Fiction, LGBTQ, Literary Fiction, Women's Fiction",http://www.andreabrownlit.com/
+Kirby Kim,Janklow & Nesbit Associates,New York,"Fiction, Commercial Fiction, Fantasy, Humor, Literary Fiction, Mystery, Science Fiction, Thriller, Nonfiction, Narrative Nonfiction",http://www.janklowandnesbit.com/
+Amy Berkower,Writers House,New York,"Fiction, Chick Lit, Commercial Fiction, Literary Fiction, Romance, Thriller, Women's Fiction",http://www.writershouse.com/
+Caryn Wiseman,Andrea Brown Literary Agency,Chicago,"Young Adult, Children's Book, Middle Grade, Diverse Fiction, BIPOC, LGBTQ",https://www.andreabrownlit.com/
+Jessica Saint Jean,Root Literary,Boston,"Fiction, Graphic Novel, Children's Book, Middle Grade, Diverse Fiction, Picture Book",https://www.rootliterary.com/team
+Hillary Jacobson,Creative Artists Agency,Los Angeles,"Fiction, Commercial Fiction, Literary Fiction, Mystery, Romance, Young Adult, Memoir, Historical Fiction, Horror, Crime Fiction, Humor, Women's Fiction",https://www.caa.com/
+Nancy Gallt,Gallt & Zacker Literary Agency,Newark,"Fiction, Young Adult, Children's Book, Middle Grade, Picture Book",https://www.galltzacker.com/
+Katie Kotchman,Don Congdon Associates,New York,"Nonfiction, Business Book, Memoir, Narrative Nonfiction, Self-Help, Politics",http://www.doncongdon.com/
+Johanna Castillo,Writers House,New York,"Fiction, Romance, Nonfiction, Diverse Fiction, #ownvoices, Commercial Fiction, Narrative Nonfiction, African-American, Literary Fiction",http://www.writershouse.com/
+Mandy Hubbard,Emerald City Literary Agency,Seattle,"Young Adult, Middle Grade, Children's Book, Nonfiction",http://www.emeraldcityliterary.com/
+Sandy Lu,Book Wyrm Literary Agency,New York,"Fiction, Commercial Fiction, Fantasy, Historical Fiction, Humor, Literary Fiction, Thriller, Young Adult, Nonfiction, Narrative Nonfiction, Cookbook, Horror, Science Fiction, Women's Fiction, Business Book",http://www.bookwyrmlit.com/
+Susan Rabiner,Susan Rabiner Literary Agency,New York,"Nonfiction, Business Book, Narrative Nonfiction, Self-Help",https://www.rabinerlit.com/
+Nancy Yost,Nancy Yost Literary Agency,New York,"Fiction, Thriller, Women's Fiction, Fantasy, Romance, Science Fiction, Commercial Fiction, Crime Fiction",http://www.nyliterary.com/
+Jenni Ferrari-Adler,Verve Talent & Literary,New York,"Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Commercial Fiction, Cookbook, Middle Grade, Short Story, Young Adult",https://vervetla.com/
+John Cusick,Folio Literary Management,New York,"Young Adult, Children's Book, Middle Grade, Commercial Fiction, Fantasy, Fiction, Graphic Novel, Horror, New Adult, Picture Book, Romance, Science Fiction, Women's Fiction",http://www.foliojr.com/
+Laura Blake Peterson,"Curtis Brown, Ltd.",New York,"Fiction, Chick Lit, Commercial Fiction, Literary Fiction, Mystery, Thriller, Women's Fiction, Young Adult, Nonfiction, Memoir, Spirituality, Children's Book, Middle Grade",https://curtisbrown.com/
+Carrie Pestritto,Laura Dail Literary Agency,New York,"Fiction, Commercial Fiction, Mystery, Romance, Thriller, Women's Fiction, Young Adult, Nonfiction, Memoir, Middle Grade, LGBTQ, Chick Lit, Fantasy, Narrative Nonfiction, Business Book, Crime Fiction, Feminism, Historical Fiction, Horror, New Adult, Self-Help",http://www.ldlainc.com/
+Jodi Reamer,Writers House,New York,"Fiction, Commercial Fiction, Fantasy, Mystery, Romance, Science Fiction, Thriller, Young Adult, Children's Book, Middle Grade, Picture Book, Women's Fiction",http://www.writershouse.com/
+Tracy Marchini,BookEnds Literary Agency,Newark,"Children's Book, Middle Grade, Picture Book",http://www.bookendsliterary.com/
+Scott Eagan,Greyhaus Literary Agency,Seattle,"Fiction, Romance, Women's Fiction",http://www.greyhausagency.com
+Cassandra Rodgers,5 Otter Literary,Toronto,"Fiction, Thriller, Nonfiction, Business Book, Memoir, Politics, Sports",https://fiveotterliterary.com/
+Margaret Sutherland Brown,Folio Literary Management,New York,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Thriller, Nonfiction, Narrative Nonfiction",https://www.foliolit.com/team
+Will Francis,Janklow & Nesbit Associates,London,"Fiction, Literary Fiction, Nonfiction, Narrative Nonfiction, Politics",https://janklowandnesbit.co.uk/
+Nicole Aragi,Aragi Inc.,New York,"Fiction, Historical Fiction, Literary Fiction, Nonfiction, Narrative Nonfiction, Feminism",http://www.aragi.net
+Warren Frazier,John Hawkins & Associates,New York,"Fiction, Literary Fiction, Business Book, Graphic Novel, Memoir, Narrative Nonfiction, Short Story",http://www.jhalit.com/
+Lane Heymont,The Tobias Agency,Nashville,"Fiction, Commercial Fiction, Fantasy, Horror, Romance, Science Fiction, Thriller, Women's Fiction, Young Adult, Nonfiction, Memoir, Narrative Nonfiction, Diverse Fiction, #ownvoices, BIPOC, LGBTQ",https://www.thetobiasagency.com/
+Helen Heller,The Helen Heller Agency,Toronto,"Fiction, Commercial Fiction, Literary Fiction, Historical Fiction, Thriller",https://thehelenhelleragency.com/
+Jenny Bent,The Bent Agency,New York,"Fiction, Commercial Fiction, Humor, Literary Fiction, Romance, Thriller, Women's Fiction, Young Adult, Nonfiction, Memoir, Self-Help, Middle Grade, Diverse Fiction, BIPOC, Horror",http://www.thebentagency.com/
+David Fugate,LaunchBooks Literary Agency,San Diego,"Action & Adventure, Fantasy, Humor, Science Fiction, Thriller, Nonfiction, Business Book, Narrative Nonfiction, Politics, Sports",https://launchbooks.com/
+Beth Phelan,Gallt & Zacker Literary Agency,Newark,"Fiction, Fantasy, Young Adult, Children's Book, Middle Grade, Diverse Fiction, Action & Adventure, Historical Fiction, Horror, Literary Fiction, Mystery, Romance",https://www.galltzacker.com/
+Suzanne Gluck,William Morris Endeavor,Los Angeles,"Fiction, Literary Fiction, Nonfiction, Memoir, Politics",https://www.wmebookdepartment.com/
+Suzie Townsend,"New Leaf Literary & Media, Inc.",New York,"Fiction, Women's Fiction, Narrative Nonfiction, Nonfiction",http://www.newleafliterary.com/
+Sydelle Kramer,Susan Rabiner Literary Agency,New York,"Nonfiction, Memoir, Narrative Nonfiction, Politics, Sports, LGBTQ",https://www.rabinerlit.com/
+Cameron McClure,Donald Maass Literary Agency,New York,"Fiction, Literary Fiction, Mystery, Science Fiction, Thriller, Diverse Fiction, LGBTQ, Commercial Fiction, Fantasy, Historical Fiction, Crime Fiction, Horror",http://maassagency.com/
+Merrilee Heifetz,Writers House,New York,"Fiction, Commercial Fiction, Fantasy, Science Fiction, Young Adult, Middle Grade, Memoir, Narrative Nonfiction",http://www.writershouse.com/
+Joanne Wyckoff,Carol Mann Agency,New York,"Humor, Nonfiction, Memoir, Narrative Nonfiction, Spirituality, Sports, Diverse Fiction, African-American, Feminism",http://carolmannagency.com/
+Cathryn Summerhayes,Curtis Brown UK,London,"Fiction, Literary Fiction, Women's Fiction, Young Adult, Nonfiction, Self-Help",https://www.curtisbrown.co.uk/
+Jessica Sinsheimer,Context Literary Agency,New York,"Fiction, Commercial Fiction, Crime Fiction, Fantasy, New Adult, Romance, Science Fiction, Thriller, Women's Fiction, Young Adult, Nonfiction, Cookbook, Children's Book, Middle Grade, Diverse Fiction, BIPOC, LGBTQ, Narrative Nonfiction, Self-Help",https://www.contextlit.com/
+Alexa Stark,Writers House,New York,"Fiction, Commercial Fiction, Literary Fiction, Thriller, Nonfiction, Narrative Nonfiction, Feminism, Romance, Women's Fiction",https://www.writershouse.com/
+Molly Friedrich,The Friedrich Agency,New York,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Women's Fiction, Nonfiction, Memoir, Diverse Fiction, Humor, Narrative Nonfiction",http://www.friedrichagency.com/
+Simon Lipskar,Writers House,New York,"Fiction, Commercial Fiction, Fantasy, Literary Fiction, Science Fiction, Thriller, Young Adult, Nonfiction, Memoir, Narrative Nonfiction",http://www.writershouse.com/
+Sam Stoloff,"Frances Goldin Literary Agency, Inc.",New York,"Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Politics, Historical Fiction",http://www.goldinlit.com/
+Bridgette Kam,Westwood Creative Artists,Toronto,"Children's Book, Fiction, Graphic Novel, Middle Grade, Nonfiction, Young Adult",https://wcaltd.com/bridgette-kam/
+Rach Crawford,Wolf Literary Services,New York,"Feminism, Horror, LGBTQ, Literary Fiction, Fantasy, Humor, Memoir, Narrative Nonfiction, Nonfiction",https://www.wolflit.com
+Pippa Masson,Curtis Brown Australia,Sydney,"Fiction, Nonfiction, Picture Book, Children's Book, Crime Fiction, Historical Fiction, Memoir, Middle Grade, Thriller",https://www.curtisbrown.com.au/pippa-masson
+Victoria Sanders,Victoria Sanders & Associates,New York,"Fiction, Chick Lit, Commercial Fiction, Nonfiction, Memoir, Diverse Fiction",http://www.victoriasanders.com
+Sorche Elizabeth Fairbank,Fairbank Literary Representation,New York,"Fiction, Literary Fiction, Nonfiction, Cookbook, Memoir, Narrative Nonfiction, Self-Help, Children's Book, Middle Grade, Picture Book, Diverse Fiction, Feminism, Commercial Fiction, Politics, Sports, Women's Fiction",http://www.fairbankliterary.com/
+Jennifer Lyons,Jennifer Lyons Literary Agency,New York,"Fiction, Commercial Fiction, Literary Fiction, Women's Fiction, Young Adult, Nonfiction, Narrative Nonfiction, Children's Book, Middle Grade",https://www.jenniferlyonsliteraryagency.com/
+Brian Cook,The Authors' Agent,Sydney,"Young Adult, Children's Book, Fiction, Middle Grade, Narrative Nonfiction, Nonfiction",http://www.theauthorsagent.com.au/
+Kaitlyn Katsoupis,Belcastro Literary Agency,New York,"Commercial Fiction, Graphic Novel, Historical Fiction, New Adult, Romance, Young Adult, Middle Grade, LGBTQ, Horror, Women's Fiction",http://belcastroagency.com/
+Donovan Levine,Neighborhood Literary,Philadelphia,"Fiction, Historical Fiction, Memoir, Mystery, Narrative Nonfiction, New Adult, Nonfiction, Thriller, Young Adult",https://www.neighborhoodliterary.com/about
+Christine Goss,FinePrint Literary Management,New York,"Action & Adventure, Commercial Fiction, Cookbook, Diverse Fiction, Fantasy, Feminism, Graphic Novel, Historical Fiction, Horror, Humor, LGBTQ, Literary Fiction, Memoir, Mystery, New Adult, Nonfiction, Romance, Science Fiction, Self-Help, Thriller, Women's Fiction, Young Adult",https://fineprintlit.com/christine-goss.html
+Arianna Siddiqui,FinePrint Literary Management,New York,"Fantasy, Fiction, Horror, Mystery, Nonfiction, Romance, Thriller, Young Adult",https://fineprintlit.com/arianna-siddiqui.html
+Bill Hamilton,A.M. Heath Literary Agents,London,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Nonfiction, Politics, Children's Book, Crime Fiction, Fantasy, Horror, Memoir, Narrative Nonfiction, New Adult, Picture Book, Romance, Science Fiction, Women's Fiction, Young Adult",https://amheath.com
+Grace Milusich,Looking Glass Literary & Media,San Diego,"Children's Book, Commercial Fiction, Cookbook, Crime Fiction, Fantasy, Fiction, Historical Fiction, Horror, LGBTQ, Literary Fiction, Memoir, Romance, Science Fiction, Thriller, Women's Fiction, Young Adult, BIPOC, Diverse Fiction",https://www.lookingglasslit.com/
+Katie Grimm,"Curtis Brown, Ltd.",New York,"Fiction, Historical Fiction, Literary Fiction, Women's Fiction, Young Adult, Nonfiction, Narrative Nonfiction, Middle Grade, Diverse Fiction, LGBTQ, Feminism, Humor, Short Story",https://curtisbrown.com/
+Veronica Goldstein,United Talent Agency,New York,"Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Fantasy",https://www.unitedtalent.com/
+Kimberley Cameron,Kimberley Cameron & Associates,San Francisco,"Fiction, Commercial Fiction, Historical Fiction, Horror, Literary Fiction, Mystery, Science Fiction, Thriller, Women's Fiction, Nonfiction, Narrative Nonfiction, Self-Help, Spirituality",https://www.kimberleycameron.com/
+Rachel Brooks,BookEnds Literary Agency,Newark,"Fiction, Commercial Fiction, Mystery, Romance, Women's Fiction, Young Adult, Diverse Fiction, #ownvoices, BIPOC, LGBTQ",http://www.bookendsliterary.com/
+Lisa DiMona,Writers House,New York,"Nonfiction, Business Book, Memoir, Narrative Nonfiction, Self-Help, Spirituality",http://www.writershouse.com/
+Charlotte Wenger,Prospect Agency,Newark,"Nonfiction, Memoir, Children's Book, Picture Book",http://www.prospectagency.com
+Daniel Strone,Trident Media Group,New York,"Nonfiction, Memoir",https://www.tridentmediagroup.com/
+Julia Kenny,"Dunow, Carlson & Lerner Literary Agency",New York,"Fiction, Literary Fiction, Mystery, Thriller, Cookbook, Memoir, Middle Grade, Narrative Nonfiction, Young Adult",https://www.dclagency.com/
+Angela Miller,Folio Literary Management,New York,"Nonfiction, Business Book, Cookbook, Self-Help, Feminism",https://www.foliolit.com/
+Lauren Miller,HMMG Pty Ltd,Melbourne,"Nonfiction, Memoir",http://www.harrymmiller.com.au/
+Suzy Evans,Suzy Evans Literary Agency,San Diego,"Fiction, Graphic Novel, Humor, Thriller, Young Adult, Nonfiction, Business Book, Cookbook, Memoir, Narrative Nonfiction, Self-Help, Sports, Children's Book, Middle Grade, Diverse Fiction",https://evansliterary.com/
+Jevon Bolden,Embolden Media Group,Orlando,"Fiction, Young Adult, Nonfiction, Christian, Self-Help, Spirituality, Children's Book, Diverse Fiction, African-American, BIPOC, Commercial Fiction",http://www.jevonbolden.com/
+David Vigliano,Vigliano Associates,New York,"Commercial Fiction, Nonfiction, Narrative Nonfiction",http://www.viglianoassociates.com/
+Stuart Krichevsky,Stuart Krichevsky Literary Agency,New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction",http://skagency.com/
+Scott Miller,Trident Media Group,New York,"Fiction, Commercial Fiction, Crime Fiction, Fantasy, Graphic Novel, Horror, Literary Fiction, Mystery, Science Fiction, Thriller, Young Adult, Nonfiction, Memoir, Narrative Nonfiction, Children's Book, Middle Grade",https://www.tridentmediagroup.com/
+Kate Garrick,Salky Literary Management,New York,"Fiction, Humor, Literary Fiction, Short Story, Women's Fiction, Nonfiction, Memoir, Narrative Nonfiction",https://www.salkyliterarymanagement.com/
+Chris Lotts,The Lotts Agency,New York,"Fiction, Commercial Fiction, Crime Fiction, Fantasy, Horror, Science Fiction, Thriller, Narrative Nonfiction",https://www.lottsagency.com/
+Sarah Jane Freymann,Sarah Jane Freymann Literary Agency,New York,"Fiction, Commercial Fiction, Literary Fiction, Young Adult, Nonfiction, Cookbook, Memoir",http://www.sarahjanefreymann.com/
+Danya Kukafka,Trellis Literary Management,Boston,"Fiction, Commercial Fiction, Crime Fiction, Horror, Literary Fiction, Mystery, Thriller, Women's Fiction, Young Adult, Nonfiction, Memoir, Narrative Nonfiction, Diverse Fiction, LGBTQ, Romance, Science Fiction, Chick Lit, Historical Fiction, Short Story",https://www.trellisliterary.com/
+Preeti Gill,Majha House,New Delhi,"Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Politics, Feminism",http://www.majhahouse.com/
+Haley Casey,"Creative Media Agency, Inc.",New York,"Commercial Fiction, New Adult, Romance, Women's Fiction, Young Adult, Memoir, Middle Grade, Feminism, LGBTQ, Fantasy, Narrative Nonfiction, Chick Lit, Horror, Science Fiction, Fiction",http://cmalit.com/
+Allison Remcheck Pernetti,Stimola Literary Studio,New York,"Fiction, Young Adult, Middle Grade, Mystery, Picture Book, Thriller",https://www.stimolaliterarystudio.com/
+Alexandra Levick,Writers House,New York,"Fiction, Commercial Fiction, Fantasy, Horror, Literary Fiction, Science Fiction, Thriller, Young Adult, Children's Book, Middle Grade, Picture Book, Diverse Fiction, #ownvoices",http://www.writershouse.com/
+Lara Perkins,Andrea Brown Literary Agency,Chicago,"Fiction, Mystery, Young Adult, Nonfiction, Narrative Nonfiction, Children's Book, Middle Grade, Picture Book, Diverse Fiction, BIPOC, LGBTQ",http://www.andreabrownlit.com/
+Taylor Martindale Kean,Full Circle Literary,San Diego,"Fiction, Young Adult, Children's Book, Middle Grade, Diverse Fiction, Commercial Fiction, Fantasy, Graphic Novel",https://www.fullcircleliterary.com/
+Carrie Howland,"Howland Literary, LLC",New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Cookbook",https://howlandliterary.com/
+Maria Carvainis,"Maria Carvainis Agency, Inc.",New York,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Mystery, Thriller, Women's Fiction, Nonfiction, Business Book, Memoir",https://www.mariacarvainisagency.com/
+Caroline Eisenmann,Frances Goldin Literary Agency,New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, BIPOC, Diverse Fiction",https://goldinlit.com/
+BJ Robbins,BJ Robbins Literary Agency,Los Angeles,"Fiction, Commercial Fiction, Literary Fiction, Mystery, Thriller, Nonfiction, Memoir, Diverse Fiction",https://www.bjrobbinsliterary.com/
+Sharon Pelletier,"Dystel, Goderich & Bourret",New York,"Commercial Fiction, Crime Fiction, Literary Fiction, Mystery, Thriller, Narrative Nonfiction, Diverse Fiction, LGBTQ, Romance",https://www.dystel.com/
+Masha Gunic,Azantian Literary Agency,San Francisco,"Fiction, Young Adult, Children's Book, Middle Grade",http://www.azantianlitagency.com/
+Andrew Stuart,The Stuart Agency,New York,"Fiction, Literary Fiction, Nonfiction, Business Book, Memoir, Narrative Nonfiction, Politics, Sports",http://www.stuartagency.com
+Amy Williams,The Williams Company,New York,"Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction",http://williamsliterary.com/
+Daniel Greenberg,Levine Greenberg Rostan Literary Agency,New York,"Humor, Nonfiction, Memoir, Narrative Nonfiction",https://lgrliterary.com/
+Ethan Bassoff,WME Books,Washington,"Fiction, Nonfiction, Commercial Fiction, Fantasy, Humor, Literary Fiction, Memoir, Science Fiction, Young Adult",https://wmebookdepartment.com/
+Justin Brouckaert,Aevitas Creative Management,Boston,"Short Story, Nonfiction, Memoir, Narrative Nonfiction, Politics, Sports, Humor, Literary Fiction, Self-Help",https://aevitascreative.com/
+Meredith Kaffel Simonoff,The Gernert Company,New York,"Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction",https://www.thegernertco.com/
+Annie Hwang,Ayesha Pande Literary,New York,"Fiction, Fantasy, Humor, Literary Fiction, Nonfiction, Narrative Nonfiction, Diverse Fiction, BIPOC, Feminism, LGBTQ",http://www.pandeliterary.com/
+Jim Rutman,Sterling Lord Literistic Inc.,New York,"Fiction, Literary Fiction, Nonfiction, Narrative Nonfiction, Memoir",https://www.sll.com/
+Joy Harris,The Joy Harris Literary Agency,New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction",http://www.joyharrisliterary.com/
+Julia Kardon,HG Literary,New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction",http://hsgagency.com/
+Denise Shannon,Denise Shannon Literary Agency,New York,"Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Commercial Fiction",https://deniseshannonagency.com/
+Wendy Lawton,Books & Such Literary Agency,San Francisco,"Nonfiction, Christian, Spirituality, Fiction, Young Adult",https://www.booksandsuch.com/
+Melissa Danaczko,Stuart Krichevsky Literary Agency,New York,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Thriller, Women's Fiction, Nonfiction, Narrative Nonfiction, Memoir",http://skagency.com/
+Sheila Crowley,Curtis Brown UK,London,"Fiction, Commercial Fiction, Crime Fiction, Literary Fiction, Thriller, Nonfiction, Business Book, Memoir, Sports, Mystery, Romance, Women's Fiction",https://www.curtisbrown.co.uk/
+Regina Brooks,Serendipity Literary Agency,New York,"Fiction, Commercial Fiction, Literary Fiction, Young Adult, Nonfiction, Business Book, Narrative Nonfiction, Politics, Self-Help, Spirituality, Children's Book, Diverse Fiction, African-American",https://www.serendipitylit.com/
+Julie Gwinn,The Seymour Agency,New York,"Fiction, Nonfiction, Self-Help, Spirituality, Sports, Diverse Fiction, Action & Adventure, Business Book, Chick Lit, Commercial Fiction, Cookbook, Fantasy, Historical Fiction, LGBTQ, Narrative Nonfiction, Romance, Thriller",https://theseymouragency.com/
+Alia Hanna Habib,The Gernert Company,New York,"Memoir, Narrative Nonfiction, Fiction, Literary Fiction",http://www.thegernertco.com/
+Danielle Chiotti,Upstart Crow Literary,New York,"Fiction, Young Adult, Nonfiction, Cookbook, Children's Book, Middle Grade",http://www.upstartcrowliterary.com/
+Eric Smith,Neighborhood Literary,Philadelphia,"Fantasy, Fiction, Literary Fiction, Memoir, Middle Grade, Nonfiction, Romance, Science Fiction, Young Adult",https://www.neighborhoodliterary.com/about
+Ali Herring,Spencerhill Associates,Tampa,"Fiction, Commercial Fiction, Fantasy, Romance, Science Fiction, Women's Fiction, Young Adult, Middle Grade, Horror, New Adult, Spirituality, Thriller",https://www.spencerhillassociates.com/
+Susan Ginsburg,Writers House,New York,"Fiction, Literary Fiction, Nonfiction, Young Adult",http://www.writershouse.com/
+Jacqueline Lipton,The Tobias Agency,New York,"Romance, Young Adult, Nonfiction, Middle Grade, Mystery, Action & Adventure, Business Book, Chick Lit, Commercial Fiction, Diverse Fiction, Fantasy, Feminism, Horror, LGBTQ, Narrative Nonfiction, Politics, Thriller",https://www.thetobiasagency.com/
+Michelle Kass,Michelle Kass Associates,London,"Fiction, Mystery, Young Adult, Middle Grade, Action & Adventure, BIPOC, Commercial Fiction, Crime Fiction, Diverse Fiction, Feminism, LGBTQ, Literary Fiction, Thriller",https://michellekass.co.uk/
+Kim Lindman,Stonesong,New York,"Nonfiction, Cookbook, Narrative Nonfiction, African-American, BIPOC, Self-Help, Fiction, Historical Fiction, Literary Fiction, Mystery",https://www.stonesong.com
+Moe Ferrara,BookEnds Literary Agency,Newark,"Fiction, Fantasy, Horror, Romance, Young Adult, Children's Book, Middle Grade, Picture Book, Diverse Fiction, #ownvoices, BIPOC, LGBTQ",http://www.bookendsliterary.com/
+Mita Kapur,Siyahi,New Delhi,"Fiction, Nonfiction, Memoir, BIPOC, Diverse Fiction, Literary Fiction, Narrative Nonfiction",http://siyahi.in/
+Whitney Ross,High Line Literary Collective,New York,"Fiction, Action & Adventure, Commercial Fiction, Fantasy, Historical Fiction, New Adult, Romance, Science Fiction, Women's Fiction, Young Adult, Nonfiction, Cookbook, Children's Book, Middle Grade",https://www.highlineliterary.com/
+William LoTurco,LoTurco Literary,New York,"Nonfiction, Memoir, Narrative Nonfiction, Sports",http://loturcoliterary.com/
+Antoinëtte V. Sluytman,Looking Glass Literary & Media,San Diego,"African-American, BIPOC, Fantasy, Historical Fiction, Young Adult, Diverse Fiction, Graphic Novel, #ownvoices",https://www.lookingglasslit.com/
+Ted Weinstein,Ted Weinstein Literary Management,New York,"Nonfiction, Business Book, Cookbook, Narrative Nonfiction, Memoir",https://www.twliterary.com/
+Robert Gottlieb,Trident Media Group,New York,"Fiction, Commercial Fiction, Fantasy, Literary Fiction, Mystery, Romance, Science Fiction, Thriller",https://www.tridentmediagroup.com/
+Jolene Haley,Donald Maass Literary Agency,San Diego,"Fiction, Commercial Fiction, Crime Fiction, Fantasy, Horror, Mystery, Romance, Thriller, Women's Fiction, Young Adult, Nonfiction, Self-Help, Spirituality, Children's Book, Middle Grade",https://maassagency.com/
+PJ Mark,Janklow & Nesbit Associates,New York,"Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction",http://www.janklowandnesbit.com/
+Briar Heckman,Westwood Creative Artists,Toronto,"Commercial Fiction, Cookbook, Fiction, Literary Fiction, Narrative Nonfiction, Nonfiction",https://wcaltd.com/briar-heckman/
+Paula Weiman,ASH Literary,New York,"Fiction, Young Adult, Graphic Novel, Horror, Picture Book",https://ashliterary.com/
+Dana Newman,Dana Newman Literary,Los Angeles,"Fiction, Literary Fiction, Women's Fiction, Nonfiction, Business Book, Cookbook, Memoir, Narrative Nonfiction, Politics, Self-Help, Sports, Thriller, Commercial Fiction, Spirituality",https://www.dananewman.com/
+John Silbersack,The Bent Agency,New York,"Fiction, Historical Fiction, New Adult, Romance, Science Fiction, Thriller, Women's Fiction, Young Adult, Children's Book, Middle Grade, Memoir",https://www.thebentagency.com/
+Sandra Bishop,Transatlantic Agency,Toronto,"Nonfiction, Cookbook, Memoir, Self-Help",https://www.transatlanticagency.com/
+Mary C. Moore,Aevitas Creative Management,San Francisco,"Commercial Fiction, Fantasy, Historical Fiction, Literary Fiction, Mystery, Romance, Science Fiction, Thriller, Women's Fiction, Young Adult, Middle Grade, Horror, Action & Adventure, Crime Fiction, Feminism, Humor, Diverse Fiction, Fiction, Nonfiction",https://www.aevitascreative.com/
+Sarah Khalil,Calligraph Literary Agency,New York,"Fiction, Narrative Nonfiction, Nonfiction, LGBTQ",https://www.calligraphlit.com/=
+Allison Hellegers,Stimola Literary Studio,New York,"Fiction, Commercial Fiction, Literary Fiction, Science Fiction, Thriller, Young Adult, Nonfiction, Memoir, Middle Grade, LGBTQ, Fantasy, Narrative Nonfiction, Romance",https://www.stimolaliterarystudio.com/
+Paige Wheeler,"Creative Media Agency, Inc.",New York,"Action & Adventure, Crime Fiction, Mystery, Romance, Thriller, Women's Fiction, Memoir, Middle Grade, Young Adult, Business Book, Chick Lit, Feminism, Narrative Nonfiction",http://cmalit.com/
+Raphael Sagalyn,Creative Artists Agency,Washington,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Politics",https://www.caa.com
+Danielle Svetcov,Levine Greenberg Rostan Literary Agency,New York,"Historical Fiction, Literary Fiction",https://lgrliterary.com/
+Eleanor Jackson,"Dunow, Carlson & Lerner Literary Agency",New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction",https://www.dclagency.com/
+Elizabeth Wales,Wales Literary Agency,Seattle,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Politics, Diverse Fiction",http://www.waleslit.com
+Clare Mao,Sanford J. Greenburger Associates,New York,"Diverse Fiction, Fiction, Literary Fiction, Memoir, Narrative Nonfiction, Nonfiction",https://www.greenburger.com
+Sophie Hicks,Sophie Hicks Agency,London,"Fiction, Commercial Fiction, Fantasy, Literary Fiction, Mystery, Science Fiction, Thriller, Young Adult, Children's Book, Action & Adventure, African-American, BIPOC, Crime Fiction, Diverse Fiction, Feminism, Historical Fiction, Horror, Humor, LGBTQ, Memoir, Narrative Nonfiction, Nonfiction",http://www.sophiehicksagency.com/
+Caroline Walsh,David Higham Literary Agency,London,"Fiction, Graphic Novel, Children's Book, Middle Grade, Picture Book, Diverse Fiction, BIPOC, LGBTQ, Commercial Fiction, Poetry, Young Adult",https://www.davidhigham.co.uk
+Andrea Brown,Andrea Brown Literary Agency,Chicago,"Fiction, Children's Book, Middle Grade",http://www.andreabrownlit.com/
+Donald Winchester,"Watson, Little Ltd",London,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Memoir, Sports",https://www.watsonlittle.com
+Duvall Osteen,United Talent Agency,New York,"Humor, Nonfiction, Narrative Nonfiction, Fiction, Literary Fiction",https://www.unitedtalent.com/
+Nalini Akolekar,Spencerhill Associates,Tampa,"Fiction, Romance, Thriller, Women's Fiction, Commercial Fiction, Historical Fiction, Horror",https://www.spencerhillassociates.com/
+Sarah Bedingfield,Levine Greenberg Rostan Literary Agency,New York,"Fiction, Commercial Fiction, Literary Fiction, Thriller, Mystery",https://lgrliterary.com/
+Gordon Wise,Curtis Brown UK,London,"Fiction, Crime Fiction, Humor, Literary Fiction, Thriller, Nonfiction, Memoir, Narrative Nonfiction, Commercial Fiction",https://www.curtisbrown.co.uk/
+Michaela Whatnall,"Dystel, Goderich & Bourret",New York,"Action & Adventure, Commercial Fiction, Fantasy, Graphic Novel, Historical Fiction, Literary Fiction, Romance, Young Adult, Nonfiction, Narrative Nonfiction, Middle Grade, Picture Book, Diverse Fiction, LGBTQ, African-American, BIPOC, Chick Lit, Cookbook, Feminism, New Adult, Politics, Sports, Women's Fiction",https://www.dystel.com/
+Edward Maxwell,Transatlantic Literary Agency,New York,"Nonfiction, Children's Book, Picture Book",https://www.transatlanticagency.com/
+Jessica Errera,Jane Rotrosen Agency,New York,"Fiction, Historical Fiction, Romance, Thriller, Women's Fiction, Young Adult, Mystery",https://www.janerotrosen.com/
+Joseph Regal,Regal Hoffmann & Associates,New York,"Fiction, Literary Fiction, Thriller, Nonfiction, Narrative Nonfiction",http://rhaliterary.com/
+Amelia Atlas,Creative Artists Agency,London,"Fiction, Nonfiction, Narrative Nonfiction, Children's Book, Young Adult",https://www.caa.com/
+Amanda Orozco,Transatlantic Agency,Toronto,"Fiction, Fantasy, Horror, Romance, Science Fiction, Short Story, Young Adult, Nonfiction, Memoir, Narrative Nonfiction, Politics, Diverse Fiction, BIPOC, Poetry, Chick Lit, Humor, Literary Fiction, Women's Fiction",https://www.transatlanticagency.com/
+Ethan Ellenberg,The Ethan Ellenberg Literary Agency,New York,"Fiction, Action & Adventure, Commercial Fiction, Fantasy, Literary Fiction, Mystery, Romance, Science Fiction, Thriller, Women's Fiction, Nonfiction, Cookbook, Memoir, Narrative Nonfiction, Spirituality, Children's Book, Picture Book, Diverse Fiction",https://ethanellenberg.com/
+David Hale Smith,InkWell Management,Dallas,"Fiction, Commercial Fiction, Nonfiction, Narrative Nonfiction, Action & Adventure, Crime Fiction, Diverse Fiction, Horror, Memoir, Mystery, Thriller",http://inkwellmanagement.com/
+Jacinta di Mase,Jacinta di Mase Management,Melbourne,"Fiction, Nonfiction",https://www.jacintadimase.com.au/
+Nephele Tempest,The Knight Agency,Atlanta,"Fiction, Historical Fiction, Romance, Women's Fiction, Fantasy",http://www.knightagency.net/
+David Gernert,The Gernert Company,New York,"Commercial Fiction, Nonfiction, Sports, Fiction",http://www.thegernertco.com/
+Rachel Vogel,"Dunow, Carlson & Lerner Literary Agency",New York,"Fiction, Humor, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Business Book, Cookbook",https://www.dclagency.com/
+Stacey Kendall Glick,"Dystel, Goderich & Bourret",New York,"Nonfiction, Cookbook, Memoir, Narrative Nonfiction, Self-Help",https://www.dystel.com/
+Latoya C. Smith,LCS Literary Services,New York,"Romance, Thriller, Women's Fiction, Young Adult, Business Book, Self-Help, BIPOC",https://lcsliterary.com
+Barbara Collins Rosenberg,The Rosenberg Group,Boston,"Fiction, Chick Lit, Romance, Women's Fiction, Nonfiction, Sports, Cookbook",http://www.rosenberggroup.com/
+Lauren Eldridge,Lucinda Literary,Boston,"Children's Book, Fiction, Memoir, Narrative Nonfiction, Nonfiction, Spirituality, Young Adult",https://lucindaliterary.com/
+Nicky Lovick,WGM Atlantic,London,"Commercial Fiction, Crime Fiction, Thriller, Women's Fiction, Action & Adventure, Chick Lit, Feminism, Historical Fiction, Memoir, Narrative Nonfiction, Nonfiction, Romance",https://www.wgmtalent.com/
+Sandra Dijkstra,Sandra Dijkstra Literary Agency,San Diego,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction",https://www.dijkstraagency.com/
+Hemali Sodhi,A Suitable Agency,New Delhi,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Politics, Business Book",https://www.asuitableagency.com/
+Susan Canavan,WLA Books,New York,"Memoir, Narrative Nonfiction, Nonfiction",https://wlabooks.com/
+Audrey Clare Farley,Hyponymous Literary,Pittsburgh,"Memoir, Narrative Nonfiction, Nonfiction",https://www.hyponymous.com/
+Louise Lamont,LBA Literary Agency,London,"Fiction, Young Adult, Children's Book, Middle Grade, Picture Book",https://lbabooks.com/
+Gwyn Jordan,Gold Dust Literary Agency,Dallas,"Mystery, Romance, Thriller, Chick Lit, Commercial Fiction, Fantasy, Humor",https://golddustliterary.com/
+Jeff Ourvan,Jennifer Lyons Literary Agency,New York,"Fiction, Thriller, Nonfiction, Narrative Nonfiction, Business Book, Middle Grade, Mystery, Politics, Science Fiction, Sports",https://www.jenniferlyonsliteraryagency.com/
+Ella Kahn,Diamond Kahn & Woods Literary Agency,London,"Fiction, Commercial Fiction, Historical Fiction, Science Fiction, Thriller, Young Adult, Children's Book, Middle Grade, Diverse Fiction, BIPOC, LGBTQ, Crime Fiction",http://dkwlitagency.co.uk/
+Sally Harding,CookeMcDermid,Toronto,"Fiction, Fantasy, Science Fiction, Nonfiction",https://cookemcdermid.com/
+Chelsea Eberly,The Greenhouse Literary Agency,Fairfax,"Fiction, Graphic Novel, Women's Fiction, Young Adult, Nonfiction, Narrative Nonfiction, Middle Grade, Picture Book, LGBTQ, New Adult",http://www.greenhouseliterary.com/
+Sonali Chanchani,Folio Literary Management,New York,"Fiction, Commercial Fiction, Literary Fiction, Mystery, Thriller, Women's Fiction, Nonfiction, Narrative Nonfiction, Feminism",https://www.foliolit.com/
+Jennifer Mattson,Andrea Brown Literary Agency,Chicago,"Fiction, Commercial Fiction, Fantasy, Mystery, Thriller, Young Adult, Children's Book, Middle Grade, Picture Book, Diverse Fiction, BIPOC, LGBTQ",https://www.andreabrownlit.com/
+Abby Saul,The Lark Group,Chicago,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Mystery, Thriller, Women's Fiction",http://www.larkwords.com/
+Lisa Adams,The Garamond Agency,Boston,"Nonfiction, Business Book, Narrative Nonfiction",http://www.garamondagency.com/
+Stacia Decker,"Dunow, Carlson & Lerner Literary Agency",New York,"Fiction, Fantasy, Literary Fiction, Science Fiction, Thriller, Commercial Fiction",https://www.dclagency.com/
+Mark Falkin,Falkin Literary,Austin,"Commercial Fiction, Literary Fiction, Thriller, Young Adult, Crime Fiction, Horror, Humor, Memoir, Narrative Nonfiction, Sports",http://markfalkin.com/falkin-literary
+Claudia Ballard,William Morris Endeavor,Los Angeles,"Humor, Nonfiction, Memoir, Narrative Nonfiction, Fiction, Literary Fiction",https://www.wmeagency.com/
+Jennifer Azantian,Azantian Literary Agency,Los Angeles,"Children's Book, Fantasy, Fiction, Graphic Novel, Middle Grade, Young Adult",https://www.azantianlitagency.com/about-us/
+Robin Straus,"Robin Straus Agency, Inc.",New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Cookbook, Memoir, Narrative Nonfiction",http://www.robinstrausagency.com/
+Katie Shea Boutillier,Donald Maass Literary Agency,New York,"Fiction, Commercial Fiction, Thriller, Women's Fiction, Young Adult",http://maassagency.com/
+Rayhane Sanders,Massie McQuilkin & Altman Literary Agents,New York,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Young Adult, Memoir, Narrative Nonfiction",http://www.mmqlit.com/
+Laura Wood,FinePrint Literary Management,New York,Nonfiction,https://fineprintlit.com/laura-wood.html
+Amy Tannenbaum,Jane Rotrosen Agency,New York,"Fiction, Crime Fiction, Historical Fiction, Horror, Mystery, New Adult, Romance, Thriller, Women's Fiction, Diverse Fiction",https://www.janerotrosen.com/
+Cynthia Ruchti,Books & Such Literary Agency,San Francisco,"Nonfiction, Christian, Self-Help, Spirituality, Commercial Fiction, Diverse Fiction, Historical Fiction, Literary Fiction, Memoir, Narrative Nonfiction",https://www.booksandsuch.com/
+Natasha Kern,Natasha Kern Literary Agency,Seattle,"Fiction, Commercial Fiction, Mystery, Romance, Thriller, Women's Fiction, Diverse Fiction, BIPOC, Chick Lit, Historical Fiction, Young Adult",https://natashakernliterary.com/
+Emily Forney,BookEnds Literary Agency,Newark,"Fiction, Fantasy, Romance, Women's Fiction, Young Adult",http://www.bookendsliterary.com/
+Anjali Singh,The Anjali Singh Agency,New York,"Fiction, Graphic Novel, Literary Fiction, Narrative Nonfiction",https://www.anjalisinghagency.com
+Wendy Strothman,Aevitas Creative Management,Nashville,"Nonfiction, Memoir, Narrative Nonfiction, Politics",https://www.aevitascreative.com/
+Seth Fishman,The Gernert Company,Los Angeles,"Fiction, Nonfiction, Children's Book, Young Adult",https://www.thegernertco.com/
+Keshava Guha,Aevitas Creative Management,New Delhi,"Nonfiction, Spirituality, Sports",https://www.aevitascreative.com/
+Meg Wheeler,Westwood Creative Artists,Toronto,"Crime Fiction, Fiction, Historical Fiction, Literary Fiction, Mystery, Narrative Nonfiction, Nonfiction, Thriller",https://wcaltd.com/meg-wheeler/
+Gina Panettieri,Talcott Notch Literary Services,Hartford,"Historical Fiction, Thriller, Women's Fiction, Nonfiction, Business Book, Self-Help, Action & Adventure, Chick Lit, Children's Book, Commercial Fiction, Crime Fiction, Diverse Fiction, Feminism, Horror, LGBTQ, Literary Fiction, Memoir, Middle Grade, Mystery, Narrative Nonfiction, New Adult, Politics, Romance, Sports, Young Adult",http://www.talcottnotch.net/
+Lyn Tranter,Australian Literary Management,Sydney,"Fiction, Commercial Fiction, Crime Fiction, Literary Fiction, Mystery, Short Story, Thriller, Nonfiction, Memoir, Narrative Nonfiction, Politics",https://austlit.com/
+Eric Simonoff,William Morris Endeavor,Los Angeles,"Fiction, Literary Fiction, Short Story, Thriller, Nonfiction, Memoir, Narrative Nonfiction, Politics",https://www.wmeagency.com/
+Christa Heschke,"McIntosh & Otis, Inc.",New York,"Fiction, Young Adult, Children's Book, Middle Grade, Picture Book, Fantasy, Horror, Romance",http://mcintoshandotis.com/
+Lauren Bieker,FinePrint Literary Management,New York,"Fantasy, Fiction, Horror, LGBTQ, Middle Grade, Nonfiction, Romance, Science Fiction, Thriller, Women's Fiction, Young Adult",https://fineprintlit.com/lauren-bieker-vp.html
+Alice Speilburg,Speilburg Literary Agency,Louisville,"Fiction, Action & Adventure, Fantasy, Historical Fiction, Mystery, Science Fiction, Thriller, Women's Fiction, Young Adult, Nonfiction, Narrative Nonfiction, Diverse Fiction, BIPOC, LGBTQ, Crime Fiction, Horror, Memoir, Politics",http://speilburgliterary.com/
+Jayapriya Vasudevan,Jacaranda Literary Agency,Mumbai,"Fiction, Commercial Fiction, Crime Fiction, Fantasy, Science Fiction, Women's Fiction, Nonfiction, Memoir, Self-Help, Diverse Fiction, BIPOC, Literary Fiction, Narrative Nonfiction",http://jacarandalit.com
+Jessica Larios-Zarate,Wave Literary,San Francisco,"Fiction, Diverse Fiction, Narrative Nonfiction, #ownvoices",https://www.waveliterary.com/
+Renee Zuckerbrot,Massie McQuilkin & Altman Literary Agents,New York,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Short Story, Nonfiction, Narrative Nonfiction",http://www.mmqlit.com/
+Zoë Plant,The Bent Agency,London,"Fiction, Fantasy, Horror, Science Fiction, Young Adult, Middle Grade, Thriller",http://www.thebentagency.com/
+Sam Farkas,Jill Grinberg Literary Management,New York,"Fiction, Action & Adventure, Commercial Fiction, Crime Fiction, Fantasy, Graphic Novel, Historical Fiction, Horror, Humor, Literary Fiction, Mystery, New Adult, Romance, Science Fiction, Thriller, Women's Fiction, Young Adult, Nonfiction, Memoir, Children's Book, Middle Grade, Diverse Fiction, BIPOC, LGBTQ, Picture Book",https://jillgrinbergliterary.com/
+John Rudolph,"Dystel, Goderich & Bourret",New York,"Fiction, Young Adult, Nonfiction, Business Book, Memoir, Narrative Nonfiction, Sports, Children's Book, Middle Grade, Picture Book, Humor, Commercial Fiction",https://www.dystel.com/
+Monica Odom,Odom Media Management,San Diego,"Fiction, Commercial Fiction, Fantasy, Graphic Novel, Historical Fiction, Science Fiction, Short Story, Thriller, Cookbook, Memoir, Sports, Children's Book, Picture Book, Diverse Fiction, African-American, BIPOC, LGBTQ",https://odommediamgmt.com/
+Carol Franco,Calligraph Literary Agency,New York,"Business Book, Nonfiction",https://www.calligraphlit.com/
+Laura Strachan,Strachan Literary Agency,Washington,"Fiction, Commercial Fiction, Literary Fiction, Young Adult, Nonfiction, Memoir, Narrative Nonfiction, Children's Book, Middle Grade",http://www.strachanlit.com/
+Timothy Travaglini,Transatlantic Agency,Toronto,"Fiction, Fantasy, Literary Fiction, Romance, Science Fiction, Nonfiction, Memoir, Politics, Children's Book, Middle Grade, Picture Book, Action & Adventure, Chick Lit, Commercial Fiction, Diverse Fiction, Feminism, Graphic Novel, Humor, Narrative Nonfiction, Spirituality, Women's Fiction, Young Adult",https://www.transatlanticagency.com/
+Rachel Ekstrom Courage,Courage Literary,New York,"Fiction, Commercial Fiction, Literary Fiction, Business Book, Children's Book",https://www.courageliterary.com/
+Neil Olson,Massie McQuilkin & Altman Literary Agents,New York,"Fiction, Historical Fiction, Nonfiction",http://www.mmqlit.com/
+Terra Chalberg,Chalberg & Sussman Literary Agency,New York,"Fiction, Commercial Fiction, Literary Fiction, Short Story, Nonfiction, Memoir, Narrative Nonfiction",https://www.chalbergsussman.com/
+Marlene Stringer,Marlene Stringer,"Naples, US","Commercial Fiction, Crime Fiction, Fantasy, Women's Fiction, Historical Fiction, Mystery, Romance, Thriller, Young Adult",https://www.stringerlit.com/
+Michelle Wolfson,Wolfson Literary Agency,New York,"Fiction, Commercial Fiction, Humor, Mystery, New Adult, Romance, Thriller, Women's Fiction, Young Adult, Nonfiction, Narrative Nonfiction, Self-Help, Feminism",http://www.wolfsonliterary.com/
+Jake Babad,Westwood Creative Artists,Toronto,"Crime Fiction, Fantasy, Fiction, Nonfiction, Science Fiction",https://wcaltd.com/jake-babad/
+Patrice Caldwell,New Leaf Literary & Media,New York,"Fiction, Fantasy, Horror, Romance, Science Fiction, Young Adult, Nonfiction, Narrative Nonfiction, LGBTQ, Action & Adventure, Business Book, Cookbook, Historical Fiction, Mystery, New Adult, Politics, Self-Help, Thriller, Spirituality, Short Story",http://www.newleafliterary.com/
+John Taylor “Ike” Williams,Calligraph Literary Agency,New York,"Nonfiction, Politics",https://www.calligraphlit.com/
+Susanna Einstein,"Dunow, Carlson & Lerner Literary Agency",New York,"Fiction, Crime Fiction, Young Adult, Nonfiction, Narrative Nonfiction, Middle Grade, Commercial Fiction, Historical Fiction, Literary Fiction, Memoir",https://www.einsteinliterary.com/
+Michael Bourret,"Dystel, Goderich & Bourret",New York,"Fiction, Thriller, Women's Fiction, Young Adult, Nonfiction, Memoir, Children's Book, Middle Grade, Picture Book",https://www.dystel.com/
+Rachel Kent,Books & Such Literary Management,San Francisco,"Fiction, Young Adult, Nonfiction, Christian, Children's Book, Commercial Fiction, Diverse Fiction, Memoir, Narrative Nonfiction, Picture Book",https://www.booksandsuch.com/
+Julie Romeis Sanders,Steelworks Literary,New York,"Children's Book, Fiction, Graphic Novel, Middle Grade, Picture Book, Young Adult",https://steelworksliterary.com/
+Susan F. Schulman,Susan Schulman Literary Agency,New York,"Fiction, Women's Fiction, Nonfiction, Memoir, Children's Book",https://www.schulmanagency.com/
+Lisa Jackson,Alive Literary Agency,Denver,"Nonfiction, Christian, Spirituality, Children's Book, Commercial Fiction, Diverse Fiction, Fiction, Memoir, Narrative Nonfiction",https://aliveliterary.com/
+Jody Kahn,Brandt & Hochman Literary Agents,New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction",https://brandthochman.com/
+Stéphanie Abou,Massie McQuilkin & Altman Literary Agents,New York,"Fiction, Commercial Fiction, Literary Fiction, Short Story, Thriller, Young Adult, Crime Fiction, Memoir, Middle Grade, Narrative Nonfiction",http://www.mmqlit.com/
+Natascha Morris,The Tobias Agency,Nashville,"Young Adult, Fiction, Fantasy, Middle Grade, Mystery, New Adult, Picture Book, Romance, Women's Fiction",https://www.thetobiasagency.com/
+William Clark,William Clark Associates,New York,"Nonfiction, Narrative Nonfiction, Fiction",http://wmclark.com/
+Emily MacDonald,42 Management & Production,London,"Crime Fiction, Diverse Fiction, Literary Fiction, Memoir, Narrative Nonfiction, Nonfiction, Thriller, Women's Fiction, Commercial Fiction",https://www.42mp.com/books
+Rebecca Gradinger,United Talent Agency,New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Narrative Nonfiction",https://www.unitedtalent.com/
+Jessica Papin,"Dystel, Goderich & Bourret",New York,"Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Women's Fiction",https://www.dystel.com/
+Jemiscoe Chambers-Black,Andrea Brown Literary Agency,Chicago,"Romance, Thriller, Young Adult, Horror, Mystery, Picture Book",http://www.andreabrownlit.com/
+Barry Goldblatt,Barry Goldblatt Literary Agency,New York,"Fiction, Graphic Novel, Young Adult, Children's Book, Middle Grade, Fantasy, New Adult, Picture Book, Science Fiction",http://bgliterary.com/
+Kathryn Green,"Kathryn Green Literary Agency, LLC",New York,"Fiction, Mystery, Romance, Historical Fiction, Middle Grade, Young Adult, Women's Fiction",http://www.kathryngreenliteraryagency.com/
+Juliet Pickering,Blake Friedmann,London,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Cookbook, Narrative Nonfiction, Diverse Fiction, BIPOC, Feminism, LGBTQ, Women's Fiction",http://blakefriedmann.co.uk/
+Lori Steel,SteelWorks Literary,New York,"Fiction, Graphic Novel, Young Adult, Children's Book, Middle Grade, Picture Book",https://steelworksliterary.com/
+Hannah Mann,Writers House,New York,"Fiction, Graphic Novel, Young Adult, Children's Book, Middle Grade, Mystery, Thriller",http://www.writershouse.com/
+Catherine Cho,Paper Literary,London,"Fiction, Narrative Nonfiction, Women's Fiction, Young Adult, Commercial Fiction, Literary Fiction",https://www.paperliterary.com/
+Laura Cameron,Transatlantic Agency,Toronto,"Literary Fiction, Nonfiction, Horror, Thriller",https://www.transatlanticagency.com/
+Andrew Wolgemuth,"Wolgemuth & Associates, Inc.",Orlando,"Nonfiction, Christian",https://wolgemuthandassociates.com/
+Julie Stevenson,Massie McQuilkin & Altman Literary Agents,New York,"Fiction, Commercial Fiction, Literary Fiction, Thriller, Young Adult, Nonfiction, Memoir, Narrative Nonfiction, Diverse Fiction, LGBTQ",http://www.mmqlit.com/
+Jennifer Soloway,Andrea Brown Literary Agency,Chicago,"Fiction, Commercial Fiction, Horror, Literary Fiction, Thriller, Young Adult, Children's Book, Middle Grade, Action & Adventure, Crime Fiction, Graphic Novel, Humor, LGBTQ, Mystery, Women's Fiction",http://www.andreabrownlit.com/
+Tina Schwartz,"The Purcell Agency, LLC",Chicago,"Fiction, Romance, Young Adult, Nonfiction, Sports, Children's Book, Middle Grade, Diverse Fiction, LGBTQ, Chick Lit, Horror, Memoir",http://www.thepurcellagency.com/
+Moses Cardona,John Hawkins & Associates,New York,"Fiction, Commercial Fiction, Thriller, Nonfiction, Business Book, Diverse Fiction, BIPOC, Horror, #ownvoices",http://www.jhalit.com/
+Elizabeth Copps,Copps Literary Services,New York,"Children's Book, Commercial Fiction, Diverse Fiction, Fiction, Historical Fiction, Horror, LGBTQ, Literary Fiction, Middle Grade, Mystery, New Adult, Romance, Thriller, Women's Fiction, Young Adult",https://www.coppsliterary.com/our-team
+Steven Axelrod,The Axelrod Agency,New York,"Mystery, Romance, Thriller, Women's Fiction, Fiction",https://axelrodagency.com/
+Scott Waxman,WLA Books,New York,"Fiction, Young Adult, Nonfiction, Memoir, Narrative Nonfiction, Literary Fiction",https://www.waxmanliteraryagency.com/
+Hellie Ogden,William Morris Endeavor,London,"Fiction, Commercial Fiction, Crime Fiction, Historical Fiction, Literary Fiction, Thriller, Young Adult, Nonfiction, Cookbook, Narrative Nonfiction, Children's Book, Feminism",https://wmebookdepartment.com/
+Krista Van Dolzer,The Unter Agency,New York,"Fiction, Middle Grade, Narrative Nonfiction, Nonfiction, Young Adult",https://theunteragency.com/
+Heather Jackson,Heather Jackson Literary Agency,New York,"Fiction, Commercial Fiction, Thriller, Women's Fiction, Nonfiction, Self-Help, Romance, Feminism, Historical Fiction, Narrative Nonfiction",https://www.hjlit.com/
+Renuka Chatterjee,Speaking Tiger Books,New Delhi,"Fiction, Commercial Fiction, Literary Fiction, Poetry, Young Adult, Nonfiction, Memoir, Narrative Nonfiction, Politics, Children's Book, Middle Grade, Picture Book",https://www.speakingtigerbooks.com/
+Russell Galen,Scovil Galen Ghosh Literary Agency,New York,"Fiction, Fantasy, Science Fiction, Nonfiction, Narrative Nonfiction, Commercial Fiction, Historical Fiction, Horror, Literary Fiction, Memoir, Politics, Romance, Spirituality, Sports, Thriller",https://querytracker.net/agent/190
+Andrea Cascardi,Transatlantic Agency,Toronto,"Women's Fiction, Young Adult, Commercial Fiction, Graphic Novel, Middle Grade",https://www.transatlanticagency.com/
+Sandra Bond,Bond Literary Agency,Denver,"Fiction, Commercial Fiction, Crime Fiction, Literary Fiction, Mystery, Thriller, Young Adult, Nonfiction, Business Book, Narrative Nonfiction",https://bondliteraryagency.com/
+Lucy Childs,The Aaron M. Priest Literary Agency,New York,"Fiction, Commercial Fiction, Literary Fiction, Women's Fiction, Memoir",http://aaronpriest.com/
+Jane Novak,Jane Novak Literary Agency,Sydney,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Narrative Nonfiction, Children's Book",https://www.janenovak.com/
+Linda Epstein,Emerald City Literary Agency,Seattle,"Fiction, Young Adult, Children's Book, Middle Grade, Picture Book, Diverse Fiction, African-American, BIPOC, LGBTQ",http://www.emeraldcityliterary.com/
+Eugenie Furniss,42 Management & Production,London,"Commercial Fiction, Fiction, Historical Fiction, Memoir, Nonfiction, Crime Fiction, Politics",https://www.42mp.com/
+Joelle Delbourgo,Joelle Delbourgo Associates,New York,"Commercial Fiction, Fiction, Literary Fiction, Memoir, Mystery, Narrative Nonfiction, Thriller, Women's Fiction",https://delbourgo.com/
+Kimberly Brower,"Park, Fine & Brower Literary Management",New York,"Fiction, Commercial Fiction, Romance, Thriller",https://parkfinebrower.com/
+Linda S. Glaz,Linda S. Glaz Literary Agency,Pittsburgh,"Nonfiction, Christian, Mystery, Romance, Thriller, Women's Fiction",https://lindasglaz.com/
+Meg Ruley,Jane Rotrosen Agency,New York,"Fiction, Commercial Fiction, Romance, Thriller, Crime Fiction, Historical Fiction, Mystery, Women's Fiction",https://www.janerotrosen.com/
+Penny Moore,Aevitas Creative Management,Boston,"Fiction, Fantasy, Young Adult, Children's Book, Middle Grade, Horror, Mystery, Romance, Thriller",https://aevitascreative.com/
+Mary Cummings,Great River Literary,Los Angeles,"Fiction, Young Adult, Children's Book, Picture Book, Literary Fiction, Middle Grade, Poetry",http://greatriverliterary.com/
+Brenda Bowen,The Book Group,New York,"Fiction, Historical Fiction, Literary Fiction, Young Adult, Children's Book, Middle Grade, Picture Book, Cookbook, Humor",http://www.thebookgroup.com/
+Analieze Cervantes,"Harvey Klinger, Inc.",New York,"Fiction, Fantasy, Mystery, Romance, Science Fiction, Thriller, Young Adult, Diverse Fiction, BIPOC, LGBTQ, Children's Book, Middle Grade, Picture Book, #ownvoices",https://www.reesagency.com/
+Diana Fox,Fox Literary,New York,"Fiction, Fantasy, Graphic Novel, Historical Fiction, Romance, Science Fiction, Thriller, Young Adult, Nonfiction, Memoir, Narrative Nonfiction, Spirituality",http://www.foxliterary.com/
+Hilary McMahon,Westwood Creative Artists,Toronto,"Fiction, Literary Fiction, Middle Grade, Narrative Nonfiction, Nonfiction, Young Adult",https://wcaltd.com/hilary-mcmahon/
+Ann Leslie Tuttle,"Dystel, Goderich & Bourret",New York,"Commercial Fiction, Historical Fiction, Middle Grade, Narrative Nonfiction, Nonfiction, Romance, Thriller, Women's Fiction, Chick Lit, Memoir",https://www.dystel.com/
+Sara Megibow,Megibow Literary Agency,Denver,"Fiction, Fantasy, Romance, Science Fiction, Young Adult, Children's Book, Middle Grade, Diverse Fiction, LGBTQ",https://www.megibowliteraryagency.com/
+Benython Oldfield,Zeitgeist Agency,Sydney,"Fiction, Crime Fiction, Thriller, Young Adult, Children's Book, Chick Lit, Commercial Fiction, Diverse Fiction, Fantasy, Feminism, Historical Fiction, Literary Fiction, Memoir, Narrative Nonfiction, Nonfiction, Romance",https://www.zeitgeistagency.com/
+Sarah Heller,The Helen Heller Agency,Toronto,"Fiction, Commercial Fiction, Young Adult, Narrative Nonfiction",https://thehelenhelleragency.com/
+Saritza Hernandez,Andrea Brown Literary Agency,Chicago,"Fiction, Romance, Science Fiction, Middle Grade, New Adult, Picture Book, Nonfiction, Graphic Novel, Humor, Mystery, Women's Fiction",http://www.andreabrownlit.com/
+Miriam Altshuler,DeFiore & Company,New York,"Fiction, Literary Fiction, Young Adult, Narrative Nonfiction, Children's Book, Middle Grade, LGBTQ, Commercial Fiction",http://www.defliterary.com/
+Philip Patterson,Marjacq,London,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Thriller, Nonfiction, Narrative Nonfiction, Politics",https://www.marjacq.com/
+Sarah Levitt,Aevitas Creative Management,Boston,"Nonfiction, Narrative Nonfiction, Feminism, Politics, LGBTQ",https://aevitascreative.com/
+Jana Burson,The Christopher Ferebee Agency,Los Angeles,"Nonfiction, Christian, Fiction, Memoir, Narrative Nonfiction, Spirituality",https://www.christopherferebee.com
+T.S. Ferguson,Azantian Literary Agency,Los Angeles,"Fiction, Middle Grade, Young Adult, Fantasy, Graphic Novel, Historical Fiction, Horror, LGBTQ",https://www.azantianlitagency.com/
+Aashna Avachat,Laura Dail Literary Agency,Los Angeles,"Children's Book, Fiction, Graphic Novel, Middle Grade, Nonfiction, Picture Book, Young Adult",https://www.manuscriptwishlist.com/mswl-post/aashna-avachat/?mc_cid=697d12ab6d&mc_eid=19f692a020
+Kurestin Armada,Root Literary,Los Angeles,"Fantasy, Graphic Novel, Literary Fiction, Romance, Science Fiction, Middle Grade, Horror, Picture Book, Mystery",https://www.rootliterary.com/
+Carolyn Forde,Transatlantic Agency,Toronto,"Fiction, Commercial Fiction, Horror, Literary Fiction, Nonfiction, Narrative Nonfiction",https://www.transatlanticagency.com/
+Nicole Resciniti,The Seymour Agency,Naples,"Fiction, Fantasy, Mystery, Romance, Science Fiction, Thriller, Women's Fiction, Young Adult, Children's Book, Middle Grade, Action & Adventure, Cookbook, Spirituality",https://theseymouragency.com/
+Miriam Goderich,"Dystel, Goderich & Bourret",New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Business Book, Memoir, Narrative Nonfiction",https://www.dystel.com/
+Tracy Fisher,WME Books,Los Angeles,"Fiction, Nonfiction, Thriller",https://wmebookdepartment.com/
+Laurel Symonds,KT Literary,New York,"Graphic Novel, Young Adult, Nonfiction, Middle Grade, Picture Book, Diverse Fiction, BIPOC, LGBTQ, African-American, #ownvoices",https://ktliterary.com/
+Hannah Douglas,MK Agency,Brisbane,"Fiction, Literary Fiction, Nonfiction, Cookbook, Narrative Nonfiction",https://www.margaretkennedyagency.com/
+Clare Wallace,Darley Anderson Literary Agency,London,"Fiction, Young Adult, Children's Book, Middle Grade, Picture Book",https://www.darleyanderson.com/
+Janet Kobobel Grant,Books & Such Literary Agency,San Francisco,"Nonfiction, Christian, Commercial Fiction, Fiction, Memoir, Middle Grade, Young Adult",https://www.booksandsuch.com/
+Fiona Inglis,Curtis Brown Australia,Sydney,Fiction,https://www.curtisbrown.com.au/fiona-inglis
+Eve MacSweeney,Calligraph Literary Agency,New York,"Feminism, Literary Fiction, Nonfiction, Narrative Nonfiction",https://www.calligraphlit.com/
+Priya Doraswamy,Lotus Lane Literary,New Delhi,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Crime Fiction, Mystery, Thriller",http://www.lotuslit.com/
+Erica Rand Silverman,Stimola Literary Studio,New York,"Fiction, Children's Book, Middle Grade, Picture Book, Diverse Fiction, Graphic Novel, LGBTQ",https://www.stimolaliterarystudio.com/
+Emily Sylvan Kim,Prospect Agency,Newark,"Young Adult, Children's Book, Middle Grade, Romance, Women's Fiction, Commercial Fiction, Literary Fiction, Memoir, Nonfiction",http://www.prospectagency.com
+Brenna English-Loeb,Transatlantic Agency,Toronto,"Fantasy, Mystery, Science Fiction, Horror",https://www.transatlanticagency.com/
+Debbie Golvan,Golvan Arts Management,Melbourne,"Fiction, Commercial Fiction, Literary Fiction, Poetry, Young Adult, Nonfiction, Memoir, Narrative Nonfiction, Children's Book, Middle Grade",https://www.golvanarts.com.au/
+Tanya McKinnon,McKinnon Literary,New York,"Fiction, Graphic Novel, Literary Fiction, Young Adult, Nonfiction, Narrative Nonfiction, Children's Book, Middle Grade, Picture Book, Diverse Fiction, African-American, #ownvoices",https://mckinnonliterary.com/
+Michelle Tessler,Tessler Literary Agency,New York,"Fiction, Commercial Fiction, Literary Fiction, Women's Fiction, Nonfiction, Business Book, Memoir, Narrative Nonfiction",http://www.tessleragency.com/
+Melanie Figueroa,Root Literary,Los Angeles,"Fiction, Commercial Fiction, Fantasy, Historical Fiction, Literary Fiction, Women's Fiction, Young Adult, Middle Grade, Horror, Mystery, New Adult, Romance",https://www.rootliterary.com/
+Danielle Binks,Jacinta di Mase Management,Melbourne,"Fiction, BIPOC, Commercial Fiction, Crime Fiction, Diverse Fiction, Historical Fiction, LGBTQ, Literary Fiction, Memoir, Mystery, Narrative Nonfiction, Nonfiction, #ownvoices, Women's Fiction",https://www.jacintadimase.com.au/
+Barbara Lowenstein,Lowenstein Associates,New York,"Fiction, Mystery, Nonfiction, Business Book, Self-Help, BIPOC, Cookbook, Crime Fiction, Diverse Fiction",https://lowensteinassociates.com/
+Oliver Munson,A.M. Heath & Co. Ltd,London,"Fiction, Commercial Fiction, Crime Fiction, Thriller, Nonfiction, Narrative Nonfiction, Sports, Action & Adventure",https://amheath.com
+David Miller,The Garamond Agency,Boston,"Nonfiction, Business Book, Narrative Nonfiction, Politics",http://www.garamondagency.com/
+Lalitha Ravindran,First Forays,New Delhi,"Fiction, Historical Fiction, Literary Fiction, Romance, Nonfiction, Memoir, Narrative Nonfiction, Politics, Business Book",https://firstforays.com/
+Laurie Abkemeier,DeFiore and Company,New York,"Nonfiction, Memoir, Narrative Nonfiction, Humor",http://www.defliterary.com/
+Hannah Ferguson,Hardman & Swainson Literary Agency,London,"Fiction, Commercial Fiction, Literary Fiction, Thriller, Women's Fiction, Nonfiction, Narrative Nonfiction",http://www.hardmanswainson.com/
+Abigail Fenton,Ampersand Agency,London,"Commercial Fiction, Fiction",https://theampersandagency.co.uk/about
+Julia Lord,Julia Lord Literary Management,New York,"Fiction, Action & Adventure, Historical Fiction, Humor, Mystery, Thriller, Young Adult, Nonfiction, Narrative Nonfiction, Sports, Memoir",http://www.julialordliterarymgt.com/
+Roma Panganiban,Azantian Literary Agency,Los Angeles,"Fiction, Literary Fiction, Middle Grade, Narrative Nonfiction, Nonfiction, Young Adult",https://www.azantianlitagency.com/
+Dennis Schleicher,Talcott Notch Literary Services,Hartford,"Fiction, Nonfiction, Christian, Self-Help, Spirituality, LGBTQ, Children's Book, Young Adult, Memoir",http://www.talcottnotch.net/
+Jackie Kaiser,Westwood Creative Artists,Toronto,"Commercial Fiction, Fiction, Literary Fiction, Narrative Nonfiction",https://wcaltd.com/jackie-kaiser/
+Bridget Wagner Matzie,Aevitas Creative Management,Boston,"Fiction, Commercial Fiction, Nonfiction, Memoir, Narrative Nonfiction, Politics, Cookbook, Crime Fiction, Feminism, Humor, LGBTQ, Self-Help",https://aevitascreative.com/
+Kelly Bergh,Lucinda Literary,Philadelphia,"Children's Book, Fiction, Nonfiction, Poetry, Self-Help, Spirituality",https://lucindaliterary.com/
+Barb Roose,Books & Such Literary Agency,San Francisco,"Nonfiction, Christian, Commercial Fiction, Diverse Fiction, Memoir, Narrative Nonfiction, Spirituality",https://www.booksandsuch.com/
+Lindsay Auld,Writers House,New York,"Fiction, Graphic Novel, Young Adult, Children's Book, Middle Grade, Picture Book, African-American, BIPOC, Fantasy, Action & Adventure, Commercial Fiction, Crime Fiction, Literary Fiction, Mystery, Romance, Thriller, Women's Fiction",http://www.writershouse.com/
+Kathleen Ortiz,"New Leaf Literary & Media, Inc.",New York,"Fiction, Graphic Novel, Humor, Young Adult, Children's Book, Middle Grade, Picture Book, Commercial Fiction, Nonfiction, Spirituality",https://komediamanagement.com/kathleen-ortiz/
+Danielle Burby,Mad Woman Literary Agency,New York,"Fiction, Young Adult",https://www.madwomanliterary.com/
+Stephanie Delman,Trellis Literary Management,New York,"Historical Fiction, Literary Fiction, Thriller, Nonfiction, Memoir, Narrative Nonfiction, Diverse Fiction, Feminism, Horror, Mystery, Women's Fiction",https://www.trellisliterary.com/
+Nick Mullendore,Vertical Ink Agency,New York,"Fiction, Literary Fiction, Nonfiction, Business Book",https://www.vertical-ink-agency.com/
+Karen Tayleur,Jacinta Di Mase Management,Melbourne,"Fiction, Children's Book, Picture Book",https://www.jacintadimase.com.au/
+Rachelle Gardner,Gardner Literary,Denver,"LGBTQ, Self-Help, Spirituality, Humor, Narrative Nonfiction, Politics, Nonfiction",https://rachellegardner.com/
+Lee O’Brien,Looking Glass Literary & Media,San Diego,"Thriller, Young Adult, Horror",https://www.lookingglasslit.com/
+Bill Clegg,The Clegg Agency,New York,"Fiction, Literary Fiction, Poetry, Nonfiction, Memoir, Narrative Nonfiction",http://www.thecleggagency.com/
+Adam Chromy,Movable Type Management,New York,"Fiction, Commercial Fiction, Nonfiction, Narrative Nonfiction, Cookbook, Historical Fiction, Memoir, Mystery, Sports",https://www.movabletm.com/
+Kate McKean,Howard Morhaim Literary Agency,New York,"Fiction, Commercial Fiction, Fantasy, Graphic Novel, Historical Fiction, Humor, Literary Fiction, Science Fiction, Young Adult, Nonfiction, Memoir, Middle Grade, Diverse Fiction, LGBTQ",https://www.morhaimliterary.com/
+Alec Shane,Writers House,New York,"Fiction, Horror, Humor, Thriller, Young Adult, Nonfiction, Sports, Children's Book, Middle Grade, Mystery, Historical Fiction",http://www.writershouse.com/
+Austin Wilson,Wolgemuth & Associates,Orlando,"Nonfiction, Christian, Fiction, Memoir, Narrative Nonfiction, Spirituality",https://wolgemuthandassociates.com/
+Jordan Hamessly,JABberwocky Literary Agency,New York,"Fiction, Young Adult, Children's Book, Middle Grade, Picture Book, LGBTQ",https://awfulagent.com/
+Chris Parris-Lamb,The Gernert Company,New York,"Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Commercial Fiction",http://www.thegernertco.com/
+Tanusri Prasanna,DeFiore and Company,New York,"Fiction, Young Adult, Children's Book, Middle Grade, Diverse Fiction, Narrative Nonfiction, Picture Book, Romance, Thriller",https://www.defliterary.com/
+Erin Harris,Folio Literary Management,New York,"Fiction, Commercial Fiction, Literary Fiction, Thriller, Young Adult, Nonfiction, Memoir, Narrative Nonfiction",https://www.foliolit.com/
+Kimberly Whalen,The Whalen Agency,New York,"Fiction, Commercial Fiction, Fantasy, Thriller, Women's Fiction, Young Adult",http://thewhalenagency.com/
+Laura Dail,Laura Dail Literary Agency,New York,"Fiction, Literary Fiction, Nonfiction, Narrative Nonfiction, Business Book, Children's Book, Commercial Fiction",http://www.ldlainc.com/
+Ann Rittenberg,Ann Rittenberg Literary Agency,New York,"Fiction, Commercial Fiction, Literary Fiction, Women's Fiction, Nonfiction, Memoir, Narrative Nonfiction",http://www.rittlit.com/
+Jenny Darling,Jenny Darling & Associates,Melbourne,"Fiction, Nonfiction",https://jennydarling.com.au/
+Pamela Harty,The Knight Agency,Atlanta,"Fiction, Romance, Young Adult, Nonfiction, Business Book, Christian, Self-Help, Spirituality, Children's Book, Middle Grade, Diverse Fiction, Historical Fiction, Mystery",https://knightagency.net/
+Rebecca Podos,Neighborhood Literary,Boston,"Fiction, Fantasy, Historical Fiction, Horror, New Adult, Romance, Science Fiction, Women's Fiction, Young Adult, Diverse Fiction, BIPOC, LGBTQ, Mystery, Narrative Nonfiction, Nonfiction",https://www.neighborhoodliterary.com/about
+Trinity McFadden,The Bindery Agency,Denver,"Feminism, LGBTQ, Narrative Nonfiction, Nonfiction, Politics, Self-Help, Spirituality",https://www.thebinderyagency.com/
+Jennifer Thompson,Nordlyset Literary Agency,Minneapolis,"Fiction, Literary Fiction, Nonfiction, Narrative Nonfiction, Self-Help, Feminism, Memoir, Politics",https://www.nordlysetagency.com/
+Monika Woods,Triangle House Literary,New York,"Fiction, Commercial Fiction, Humor, Literary Fiction, Nonfiction, Cookbook, Narrative Nonfiction, Politics, Feminism",https://www.triangle.house/
+Heather Cashman,Storm Literary Agency,Minneapolis,"Fiction, Action & Adventure, Commercial Fiction, Fantasy, Graphic Novel, Historical Fiction, Humor, Mystery, Science Fiction, Thriller, Young Adult, Nonfiction, Narrative Nonfiction, Sports, Children's Book, Middle Grade, Diverse Fiction, Romance, Women's Fiction",https://www.stormliteraryagency.com/
+Nour Sallam,P.S. Literary Agency,Toronto,"BIPOC, Commercial Fiction, Diverse Fiction, Fiction, Horror, LGBTQ, Mystery, Nonfiction, #ownvoices, Politics, Romance, Thriller, Young Adult, Fantasy, Memoir",https://www.psliterary.com/
+Michael V. Carlisle,InkWell Management,New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Business Book, Spirituality, Sports, Christian, Memoir, Politics",http://inkwellmanagement.com/
+David Headley,DHH Literary Agency,London,"Fiction, Literary Fiction",http://www.dhhliteraryagency.com/
+Nicole Payne,Copps Literary Services,Dallas,"Fiction, Action & Adventure, Commercial Fiction, Historical Fiction, Women's Fiction, Young Adult, Diverse Fiction, Cookbook, Literary Fiction, Romance, Thriller, African-American, BIPOC, Chick Lit, Christian, Fantasy, Humor, LGBTQ, Mystery, New Adult, Nonfiction, Science Fiction, Spirituality, Sports",https://www.coppsliterary.com/
+Maria Massie,Massie McQuilkin & Altman Literary Agents,New York,"Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction",http://www.mmqlit.com/
+Tara Gilbert,KT Literary,New York,"Fiction, Fantasy, Graphic Novel, Horror, Romance, Young Adult, Children's Book, Middle Grade, Diverse Fiction, BIPOC, LGBTQ, Historical Fiction, New Adult, Science Fiction, Women's Fiction",https://ktliterary.com/
+Katherine Flynn,Calligraph Literary Agency,New York,"Business Book, Fiction, Narrative Nonfiction, Politics, Nonfiction",https://www.calligraphlit.com/
+Lynn Nesbit,Janklow & Nesbit Associates,New York,"Fiction, Commercial Fiction, Nonfiction, Memoir, Narrative Nonfiction, Literary Fiction",http://www.janklowandnesbit.com/
+Jes Trudel,The Rights Factory,Toronto,"Middle Grade, Young Adult, Fiction, Graphic Novel",https://www.therightsfactory.com
+Chris Calhoun,Chris Calhoun Agency,New York,"Fiction, Literary Fiction, Nonfiction, Commercial Fiction, Poetry",http://chriscalhounagency.com/
+Frances Collin,Frances Collin Literary Agency,Philadelphia,"Fiction, Fantasy, Historical Fiction, Literary Fiction, Science Fiction, Young Adult, Nonfiction, Memoir, Narrative Nonfiction",http://www.francescollin.com/
+Victoria Selvaggio,Storm Literary Agency,Minneapolis,"Fiction, Fantasy, Mystery, Thriller, Middle Grade, Narrative Nonfiction, New Adult, Picture Book, Young Adult",https://www.stormliteraryagency.com/
+Victoria Marini,High Line Literary Collective,New York,"Fiction, Action & Adventure, Crime Fiction, Fantasy, Historical Fiction, Thriller, Women's Fiction, Young Adult, Commercial Fiction, Horror, LGBTQ, Mystery, Romance, Science Fiction",https://www.highlineliterary.com/
+Jessica Schmeidler,Golden Wheat Literary,"Hays, US","Fiction, Action & Adventure, Literary Fiction, Mystery, Thriller, Women's Fiction, Young Adult, Middle Grade, Historical Fiction, Memoir",http://www.goldenwheatliterary.com/
+Patricia Nelson,Looking Glass Literary & Media,San Diego,"Fiction, Commercial Fiction, Literary Fiction, Romance, Women's Fiction, Young Adult, Middle Grade, Diverse Fiction, LGBTQ, Historical Fiction, Mystery, Horror",https://www.lookingglasslit.com/
+Stephanie Fretwell-Hill,Red Fox Literary,Los Angeles,"Young Adult, Children's Book, Middle Grade, Picture Book",http://redfoxliterary.com/
+Daniel Mandel,Sanford J. Greenburger Associates,New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Business Book, Memoir, Politics, Sports",https://www.greenburger.com/
+John Pearce,Westwood Creative Artists,Toronto,"Fiction, Historical Fiction, Literary Fiction, Memoir, Narrative Nonfiction, Nonfiction, Science Fiction",https://wcaltd.com/john-pearce/
+GiannaMarie Dobson,Neighborhood Literary,Philadelphia,"Fantasy, Fiction, LGBTQ, Middle Grade, Science Fiction, Young Adult",https://www.neighborhoodliterary.com/about
+Meredith Bernstein,Meredith Bernstein Literary Agency,New York,"Fiction, Commercial Fiction, Humor, Literary Fiction, New Adult, Romance, Thriller, Women's Fiction, Nonfiction, Business Book, Memoir, Spirituality, Diverse Fiction",http://www.meredithbernsteinliteraryagency.com
+Lucy Carson,The Friedrich Agency,New York,"Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Action & Adventure, Diverse Fiction, Historical Fiction, Horror, Humor, LGBTQ, Romance, Thriller, Women's Fiction, Commercial Fiction, Mystery",http://friedrichagency.com/
+Jennifer Carlson,"Dunow, Carlson & Lerner Literary Agency",New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Narrative Nonfiction, Middle Grade, Young Adult",https://www.dclagency.com/
+Sarah Fuentes,United Talent Agency,New York,"Fiction, Literary Fiction, Nonfiction, Memoir, Commercial Fiction",https://www.unitedtalent.com/
+Kristy Hunter,The Knight Agency,Atlanta,"Fiction, Commercial Fiction, Fantasy, Historical Fiction, Horror, Humor, New Adult, Romance, Thriller, Women's Fiction, Young Adult, Children's Book, Diverse Fiction, LGBTQ, Literary Fiction, Chick Lit",http://www.knightagency.net/
+Samantha Fabien,Root Literary,Los Angeles,"Fiction, Commercial Fiction, Fantasy, Horror, Mystery, Romance, Thriller, Women's Fiction, Young Adult",https://www.rootliterary.com/
+Jessica Berg,Rosecliff Literary,Washington DC,"Fiction, Historical Fiction, Literary Fiction, Commercial Fiction, Crime Fiction, Memoir, Nonfiction, Self-Help, Thriller, Women's Fiction",https://www.rosecliffliterary.com/
+Sara Harowitz,Westwood Creative Artists,Toronto,"Memoir, Narrative Nonfiction, Nonfiction",https://wcaltd.com/sara-harowitz/
+Kathryn Willms,The Rights Factory,Toronto,"Cookbook, Self-Help, Sports, Business Book, Diverse Fiction, Fiction, LGBTQ, Narrative Nonfiction, Nonfiction",https://www.therightsfactory.com/
+Sally Wofford-Girand,Union Literary,New York,"Literary Fiction, Narrative Nonfiction, Crime Fiction, Diverse Fiction, Fantasy, Fiction, Historical Fiction, Horror, LGBTQ, Nonfiction, Politics, Thriller, Young Adult",http://www.unionliterary.com/
+Paul Bresnick,"Bresnick Weil Literary Agency, LLC",New York,"Humor, Nonfiction, Memoir, Narrative Nonfiction, Sports, Commercial Fiction, Fiction",http://bresnickagency.com/
+Martha Webb,CookeMcDermid,Toronto,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Memoir, Self-Help",https://cookemcdermid.com/
+Jennifer Newens,Martin Literary Management,Seattle,"Children's Book, Cookbook, Picture Book, Self-Help, Diverse Fiction, Nonfiction",https://www.martinlit.com/
+Lauren E. MacLeod,Aevitas Creative Management,Nashville,"Nonfiction, Feminism, Cookbook, Memoir",https://www.aevitascreative.com/
+Beth Marshea,Ladderbird Literary Agency,San Francisco,"Fiction, Crime Fiction, Fantasy, Horror, Thriller, Young Adult, Nonfiction, Narrative Nonfiction, Children's Book, Middle Grade, Picture Book, Diverse Fiction, African-American, BIPOC, LGBTQ",http://www.ladderbird.com/
+Aaron Priest,The Aaron M. Priest Literary Agency,New York,"Fiction, Commercial Fiction, Thriller, Nonfiction",http://aaronpriest.com/
+Marilyn Biderman,Transatlantic Agency,Toronto,"Fiction, Crime Fiction, Historical Fiction, Literary Fiction, Women's Fiction, Nonfiction, Memoir, Narrative Nonfiction, Diverse Fiction, Feminism, LGBTQ, Thriller",https://www.transatlanticagency.com/
+Kate Nash,Kate Nash Literary Agency,London,"Fiction, Historical Fiction, Romance, Crime Fiction, Mystery, Thriller, Women's Fiction, Commercial Fiction, Diverse Fiction",https://katenashlit.co.uk/
+Sarah Yake,Frances Collin Literary Agency,Pittsburgh,"Commercial Fiction, Fiction, Literary Fiction, Memoir, Narrative Nonfiction, Nonfiction",https://www.francescollin.com/
+Selwa Anthony,Selwa Anthony Author Management Agency,Sydney,"Fiction, Fantasy, Romance, Thriller, Nonfiction, Memoir",http://www.selwaanthony.com.au/
+Carolyn Savarese,Calligraph Literary Agency,New York,"Nonfiction, Politics, Business Book, Children's Book",https://www.calligraphlit.com/
+Todd Shuster,Aevitas Creative Management,Boston,"Fiction, Nonfiction, Business Book, Memoir, Politics, Historical Fiction",https://aevitascreative.com/
+Chad Luibl,Janklow & Nesbit Associates,New York,"Commercial Fiction, Graphic Novel, Horror, Science Fiction, Thriller, Nonfiction, Narrative Nonfiction, Diverse Fiction, Historical Fiction",http://www.janklowandnesbit.com/
+Sam Copeland,RCW Literary Agency,London,"Fiction, Commercial Fiction, Crime Fiction, Historical Fiction, Literary Fiction, Thriller, Young Adult, Children's Book, Nonfiction",https://www.rcwlitagency.com/
+Simon Trewin,Simon Trewin Literary and Media Rights Agency,London,"Fiction, Historical Fiction, Literary Fiction, Thriller",https://www.simontrewin.co.uk/
+Marissa Koors,Curious Minds Agency,New York,"Nonfiction, Narrative Nonfiction",https://curiousmindsagency.com/
+Shannon Marven,Dupree Miller & Associates,Dallas,"Nonfiction, Christian, Narrative Nonfiction, Spirituality",http://www.dupreemiller.com
+Mollie Glick,Creative Artists Agency,New York,"Fiction, Literary Fiction, Science Fiction, Thriller, Women's Fiction, Young Adult, Nonfiction, Memoir, Children's Book, Middle Grade, Diverse Fiction, African-American",https://www.caa.com/
+Janet Silver,Aevitas Creative Management,Boston,"Fiction, Literary Fiction, Poetry, Nonfiction, Memoir, Narrative Nonfiction, Women's Fiction",https://aevitascreative.com/
+Taylor Haggerty,Root Literary,Los Angeles,"Fiction, Romance, Women's Fiction, Young Adult, Middle Grade",https://www.rootliterary.com/
+Adam Eaglin,The Cheney Agency,New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Politics",https://www.cheneyagency.com/
+Ryan D. Harbage,The Fischer-Harbage Agency,New York,"Fiction, Nonfiction, Memoir, Narrative Nonfiction",http://www.fischerharbage.com/
+Ayesha Pande,Ayesha Pande Literary,New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction, Diverse Fiction, African-American",http://www.pandeliterary.com/
+Amy Levenson,Blue Heron Literary,Seattle,"Fiction, Nonfiction, Cookbook, Children's Book",http://www.blueheronliterary.com
+Shelly Romero,Azantian Literary Agency,Los Angeles,"Fiction, Horror, LGBTQ, Middle Grade, Romance, Science Fiction, Thriller, Young Adult, Commercial Fiction, Diverse Fiction, Fantasy, New Adult",https://www.azantianlitagency.com/about-us/
+Caroline Sheldon,"Rogers, Coleridge & White",London,"Fiction, Commercial Fiction, Historical Fiction, Young Adult, Children's Book, Middle Grade, Picture Book, Women's Fiction",https://www.rcwlitagency.com/
+Jill Grinberg,Jill Grinberg Literary Management,New York,"Fiction, Commercial Fiction, Fantasy, Literary Fiction, Romance, Science Fiction, Young Adult, Nonfiction, Memoir, Narrative Nonfiction, Children's Book, Middle Grade, Business Book, Feminism, Historical Fiction, Politics, Spirituality, Women's Fiction",https://jillgrinbergliterary.com/
+Tricia Skinner,Fuse Literary,Dallas,"Fiction, Fantasy, Horror, Romance, Science Fiction, Children's Book, Middle Grade, Diverse Fiction, African-American, BIPOC, LGBTQ",http://fuseliterary.com/
+Betsy Lerner,"Dunow, Carlson & Lerner Literary Agency",New York,"Nonfiction, Memoir",https://www.dclagency.com/
+Jenni Burke,Illuminate Literary Agency,Portland,"Nonfiction, Business Book, Christian, Memoir, Self-Help, Spirituality, Narrative Nonfiction",https://illuminateliterary.com/
+Barbara Poelle,Word One Literary,New York,"Fiction, Commercial Fiction, Crime Fiction, Humor, Literary Fiction, Mystery, Thriller",https://www.wordonelit.com/
+Bethany Saltman,Wave Literary,New York,"Fiction, Business Book, Narrative Nonfiction, Nonfiction",https://www.waveliterary.com/
+Brent Taylor,Triada US Literary Agency,Pittsburgh,"Graphic Novel, Young Adult, Children's Book, Middle Grade, Picture Book, Commercial Fiction, Fantasy, Historical Fiction, Horror, LGBTQ, Literary Fiction, Mystery, New Adult, Romance, Thriller, Women's Fiction",https://www.btaylorbooks.com/
+Jud Laghi,The Jud Laghi Agency,New York,"Humor, Nonfiction, Business Book, Literary Fiction, Mystery, Narrative Nonfiction, Thriller",http://www.laghiagency.com/
+Peter Rubie,FinePrint Literary Management,New York,"Fiction, Crime Fiction, Fantasy, Science Fiction, Thriller, Nonfiction, Business Book, Narrative Nonfiction, Spirituality, Middle Grade, Action & Adventure, Commercial Fiction, Diverse Fiction, Feminism, Mystery, Politics, Women's Fiction, Children's Book, Historical Fiction, Picture Book",https://fineprintlit.com/
+Jennifer Unter,The Unter Agency,New York,"Fiction, Children's Book, Memoir, Middle Grade, Nonfiction, Young Adult",https://theunteragency.com/
+Bonnie Swanson,FinePrint Literary Management,New York,"Humor, Nonfiction",https://fineprintlit.com/bonnie-swanson.html
+Lucinda Halpern,Lucinda Literary,New York,"Business Book, Memoir, Narrative Nonfiction, Nonfiction",https://lucindaliterary.com/
+Wendi Gu,HG Literary,New York,"Young Adult, Picture Book, Graphic Novel, Horror, Children's Book, Cookbook, Feminism, LGBTQ, Memoir, Middle Grade, Narrative Nonfiction, Spirituality, Sports, Fiction, Nonfiction, Politics",https://www.hgliterary.com/
+Brettne Bloom,The Book Group,New York,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Young Adult, Nonfiction, Cookbook, Memoir, Spirituality",http://www.thebookgroup.com/
+Tara Wynne,Curtis Brown Australia,Sydney,"Fiction, Commercial Fiction, Crime Fiction, Fantasy, Literary Fiction, Romance, Thriller, Young Adult, Nonfiction, Memoir, Self-Help, Children's Book, Historical Fiction, Middle Grade",https://www.curtisbrown.com.au/
+Maeve MacLysaght,Aevitas Creative Management,San Francisco,"Fiction, Fantasy, Graphic Novel, Mystery, Romance, Science Fiction, Young Adult, Children's Book, Middle Grade, Diverse Fiction, BIPOC, LGBTQ, Horror, New Adult",http://aevitascreative.com/
+Garrett Alwert,Emerald City Literary Agency,Seattle,"Fiction, Young Adult, Middle Grade, Diverse Fiction, BIPOC, LGBTQ, Commercial Fiction, Romance, Thriller",https://emeraldcityliterary.com/
+Chris Casuccio,Westwood Creative Artists,Toronto,"Commercial Fiction, Fiction, Graphic Novel, Literary Fiction, Narrative Nonfiction, Nonfiction",https://wcaltd.com/chris-casuccio/
+Jessica Felleman,Jennifer Lyons Literary Agency,New York,"Narrative Nonfiction, LGBTQ, Self-Help, Sports, Commercial Fiction, Diverse Fiction, Fantasy, Horror, Humor, Literary Fiction, Mystery, New Adult, Science Fiction, Women's Fiction",https://www.jenniferlyonsliteraryagency.com/
+Elizabeth Bennett,Transatlantic Agency,Toronto,"Fiction, Young Adult, Children's Book, Middle Grade, Picture Book, Graphic Novel",https://www.transatlanticagency.com/
+Katherine Fausset,"Curtis Brown, Ltd.",New York,"Fiction, Commercial Fiction, Literary Fiction, Nonfiction, Memoir",https://curtisbrown.com/
+Gaia Banks,Sheil Land Associates,London,"Fiction, Fantasy, Mystery, Romance, Thriller, Nonfiction, Spirituality, Children's Book, #ownvoices, Science Fiction",http://www.sheilland.com/
+Jennifer Gates,Aevitas Creative Management,Boston,"Fiction, Literary Fiction, Nonfiction, Memoir, Children's Book",https://aevitascreative.com/
+Andrew Lownie,Andrew Lownie Literary Agency,London,"Nonfiction, Memoir",http://www.andrewlownie.co.uk//
+Quressa Robinson,Folio Literary Management,Denver,"Fiction, Fantasy, Romance, Young Adult, Nonfiction, Narrative Nonfiction, Children's Book, Middle Grade, Diverse Fiction, #ownvoices, African-American, BIPOC, LGBTQ, Commercial Fiction, Feminism, Horror, Humor, Literary Fiction, Memoir, Science Fiction, Thriller",https://www.foliojr.com/
+Samantha Wekstein,Thompson Literary Agency,New York,"Fiction, Fantasy, Historical Fiction, Romance, Science Fiction, Women's Fiction, Young Adult, Diverse Fiction, Middle Grade, Picture Book, Chick Lit, Commercial Fiction, LGBTQ, Memoir, Narrative Nonfiction, New Adult, Politics",https://thompsonliterary.com/
+Jan Miller,Dupree Miller & Associates,Dallas,"Nonfiction, Business Book, Christian, Narrative Nonfiction, Politics, Self-Help, Spirituality",http://www.dupreemiller.com/index.html
+Marilia Savvides,The Plot Agency,London,"Commercial Fiction, Crime Fiction, Diverse Fiction, Feminism, Fiction, Horror, LGBTQ, Narrative Nonfiction, Thriller, Women's Fiction, Chick Lit, Romance",https://www.theplotagency.com/
+Zach Honey,FinePrint Literary Management,New York,"Crime Fiction, Fiction, Horror, Humor, Literary Fiction, Mystery, Nonfiction, Sports, Thriller",https://fineprintlit.com/zach-honey.html
+Samantha Shea,"Georges Borchardt, Inc.",New York,"Fiction, Literary Fiction, Nonfiction, Memoir, Narrative Nonfiction",http://gbagency.com
+Jordy Albert,The Booker Albert Agency,Philadelphia,"Action & Adventure, Fantasy, Romance, Young Adult, Science Fiction",http://www.thebookeralbertagency.com/
+Donya Dickerson,Aevitas Creative Management,New York,"Business Book, Narrative Nonfiction, Nonfiction, Self-Help",https://www.aevitascreative.com/
+Amy Bishop-Wycisk,Trellis Literary Management,New York,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Mystery, Thriller, Young Adult, Nonfiction, Narrative Nonfiction, Sports, Diverse Fiction, BIPOC, Feminism",https://www.trellisliterary.com/
+Dean Cooke,CookeMcDermid,Toronto,"Fiction, Commercial Fiction, Fantasy, Nonfiction, Narrative Nonfiction, Children's Book, LGBTQ, Literary Fiction, Politics",https://cookemcdermid.com/
+Jennifer Joel,Creative Artists Agency,Los Angeles,"Fiction, Nonfiction, Narrative Nonfiction, Children's Book, Memoir, Young Adult",https://www.caa.com/
+Amy Collins,Talcott Notch Literary Services,New York,"Fantasy, Science Fiction, Historical Fiction, Narrative Nonfiction, Nonfiction, Fiction",https://talcottnotch.net/
+Adria Goetz,KT Literary,Seattle,"Fiction, Graphic Novel, Thriller, Women's Fiction, Children's Book, Middle Grade, Picture Book, Chick Lit, Commercial Fiction, Fantasy, LGBTQ, Romance",http://ktliterary.com/
+Angela Scheff,The Christopher Ferebee Agency,Los Angeles,"Nonfiction, Christian, Fiction, Memoir, Narrative Nonfiction, Spirituality",https://www.christopherferebee.com
+Jennifer Weis,The Weis Agency,Washington DC,"Fiction, Commercial Fiction, Literary Fiction, Thriller, Women's Fiction, Young Adult, Nonfiction, Memoir, Narrative Nonfiction, Politics, Diverse Fiction, Feminism",https://www.theweisagency.com/
+Annabel Barker,Annabel Barker Agency,Melbourne,"Graphic Novel, Young Adult, Children's Book, Middle Grade, Picture Book",http://annabelbarker.com/
+Lucienne Diver,The Knight Agency,Atlanta,"Fiction, Fantasy, Mystery, Romance, Science Fiction, Thriller, Young Adult, Horror, Women's Fiction, Commercial Fiction, Diverse Fiction, Historical Fiction, LGBTQ, Crime Fiction, Humor, New Adult",https://knightagency.net/
+Alice Tasman,Jean V. Naggar Literary Agency,New York,"Fiction, Commercial Fiction, Historical Fiction, Literary Fiction, Short Story, Thriller, Women's Fiction, Nonfiction, Memoir, Narrative Nonfiction, Middle Grade",http://www.jvnla.com/
+Claire Harris,Helm Literary,Toronto,"Fiction, Humor, Mystery, Thriller, Nonfiction, Cookbook, Horror, Romance, Commercial Fiction, Feminism, Politics",https://www.psliterary.com/
+Michael Levine,Westwood Creative Artists,Toronto,"Commercial Fiction, Graphic Novel, Literary Fiction, Narrative Nonfiction",https://wcaltd.com/michael-levine/
+Dara Kaye,William Morris Endeavor,Washington DC,"Memoir, Nonfiction",https://wmebookdepartment.com/
+Marie Lamba,Jennifer DeChiara Literary Agency,New York,"Fiction, Graphic Novel, Memoir, Middle Grade, Narrative Nonfiction, Nonfiction, Women's Fiction, Young Adult",https://www.jdlit.com/marie-lamba
+Sylvie Carr,The Carr Agency,San Francisco,"Fiction, Literary Fiction, Nonfiction, Business Book, Memoir, Narrative Nonfiction",https://www.the-carr-agency.com/
