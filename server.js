@@ -7,9 +7,15 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Neon database pool
+//const pool = new Pool({
+//connectionString:
+//  "postgresql://neondb_owner:npg_LN0caK9xfCTl@ep-crimson-sky-ad4jbazk-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require",
+//});
+
+// Neon database pool (use DATABASE_URL environment variable in Render)
 const pool = new Pool({
-  connectionString:
-    "postgresql://neondb_owner:npg_LN0caK9xfCTl@ep-crimson-sky-ad4jbazk-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require",
+  connectionString: process.env.DATABASE_URL,
+  ssl: { rejectUnauthorized: false },
 });
 
 app.use(express.json());
