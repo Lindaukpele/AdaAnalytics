@@ -119,6 +119,11 @@ app.get("/users/search", async (req, res) => {
   }
 });
 
+// Root route
+app.get("/", (req, res) => {
+  res.send("Welcome to AdaAnalytics API! Try /users or /users/search");
+});
+
 // ----------------- Start server -----------------
 app.listen(PORT, () => {
   console.log(`🚀 Server running on port ${PORT}`);
