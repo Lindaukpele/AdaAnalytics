@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: internagent-api
+    env: docker
+    plan: free
+    branch: main
+    healthCheckPath: /users
+    envVars:
+      - key: DATABASE_URL
+        sync: false
