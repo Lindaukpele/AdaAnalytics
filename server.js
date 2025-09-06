@@ -93,6 +93,10 @@ app.get("/api/users/search", async (req, res) => {
   }
 });
 
+app.get("/", (req, res) => {
+  res.send("🚀 Render API is live! Use /api/users endpoints.");
+});
+
 // ----------------- Start server -----------------
 app.listen(PORT, () => {
   console.log(`🚀 Render API running on port ${PORT}`);
