@@ -61,23 +61,31 @@ app.get("/api/users/:id", async (req, res) => {
 
 // ----------------- GET /api/users/search -----------------
 app.get("/api/users/search", async (req, res) => {
-  const { name } = req.query;
-  if (!name) return res.status(400).json({ error: "Name query parameter required" });
+  const { column, value } = req.query;
+
+  // Define which columns are searchable
+  const validColumns = ["name", "agency", "location", "genres", "website"];
+
+  if (!column || !value) {
+    return res
+      .status(400)
+      .json({ error: "Both 'column' and 'value' query parameters are required" });
+  }
+
+  if (!validColumns.includes(column)) {
+    return res.status(400).json({ error: "Invalid column name" });
+  }
 
   try {
     const page = parseInt(req.query.page) || 1;
     const limit = parseInt(req.query.limit) || 50;
     const offset = (page - 1) * limit;
 
-    const result = await pool.query(
-      "SELECT * FROM users WHERE name ILIKE $1 ORDER BY id LIMIT $2 OFFSET $3",
-      [`%${name}%`, limit, offset]
-    );
+    const queryText = `SELECT * FROM users WHERE ${column} ILIKE $1 ORDER BY id LIMIT $2 OFFSET $3`;
+    const result = await pool.query(queryText, [`%${value}%`, limit, offset]);
 
-    const countResult = await pool.query(
-      "SELECT COUNT(*) FROM users WHERE name ILIKE $1",
-      [`%${name}%`]
-    );
+    const countQuery = `SELECT COUNT(*) FROM users WHERE ${column} ILIKE $1`;
+    const countResult = await pool.query(countQuery, [`%${value}%`]);
     const totalRows = parseInt(countResult.rows[0].count);
 
     res.json({
