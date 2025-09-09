@@ -34,7 +34,6 @@ app.get("/api/users/search", async (req, res) => {
       `SELECT * FROM users WHERE ${column} ILIKE $1 ORDER BY id LIMIT $2 OFFSET $3`,
       [searchValue, limit, offset]
     );
-
     const countResult = await pool.query(
       `SELECT COUNT(*) FROM users WHERE ${column} ILIKE $1`,
       [searchValue]
@@ -50,7 +49,7 @@ app.get("/api/users/search", async (req, res) => {
       users: result.rows,
     });
   } catch (err) {
-    console.error(err);
+    console.error("Error searching users:", err);
     res.status(500).json({ error: "Error searching users" });
   }
 });
@@ -78,7 +77,7 @@ app.get("/api/users/all", async (req, res) => {
       users: result.rows,
     });
   } catch (err) {
-    console.error(err);
+    console.error("Error fetching all users:", err);
     res.status(500).json({ error: "Error fetching all users" });
   }
 });
