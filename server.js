@@ -1,3 +1,4 @@
+// server.js
 import express from "express";
 import cors from "cors";
 import pkg from "pg";
@@ -60,32 +61,32 @@ app.get("/api/users/:id", async (req, res) => {
 });
 
 // ----------------- GET /api/users/search -----------------
+// Search by any allowed column: name, agency, location, genres, website
 app.get("/api/users/search", async (req, res) => {
   const { column, value } = req.query;
+  if (!column || !value)
+    return res.status(400).json({ error: "Column and value query parameters required" });
 
-  // Define which columns are searchable
-  const validColumns = ["name", "agency", "location", "genres", "website"];
-
-  if (!column || !value) {
-    return res
-      .status(400)
-      .json({ error: "Both 'column' and 'value' query parameters are required" });
-  }
-
-  if (!validColumns.includes(column)) {
-    return res.status(400).json({ error: "Invalid column name" });
-  }
+  // Whitelist allowed columns to prevent SQL injection
+  const allowedColumns = ["name", "agency", "location", "genres", "website"];
+  if (!allowedColumns.includes(column))
+    return res.status(400).json({ error: "Invalid column" });
 
   try {
     const page = parseInt(req.query.page) || 1;
     const limit = parseInt(req.query.limit) || 50;
     const offset = (page - 1) * limit;
 
-    const queryText = `SELECT * FROM users WHERE ${column} ILIKE $1 ORDER BY id LIMIT $2 OFFSET $3`;
-    const result = await pool.query(queryText, [`%${value}%`, limit, offset]);
+    const result = await pool.query(
+      `SELECT * FROM users WHERE ${column} ILIKE $1 ORDER BY id LIMIT $2 OFFSET $3`,
+      [`%${value}%`, limit, offset]
+    );
 
-    const countQuery = `SELECT COUNT(*) FROM users WHERE ${column} ILIKE $1`;
-    const countResult = await pool.query(countQuery, [`%${value}%`]);
+    const countResult = await pool.query(
+      `SELECT COUNT(*) FROM users WHERE ${column} ILIKE $1`,
+      [`%${value}%`]
+    );
+
     const totalRows = parseInt(countResult.rows[0].count);
 
     res.json({
@@ -101,6 +102,7 @@ app.get("/api/users/search", async (req, res) => {
   }
 });
 
+// ----------------- Root endpoint -----------------
 app.get("/", (req, res) => {
   res.send("🚀 Render API is live! Use /api/users endpoints.");
 });
